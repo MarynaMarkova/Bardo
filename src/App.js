@@ -1,11 +1,47 @@
 import RandomNuber from "./RandomNumber";
+import Piece1 from "./Piece1";
 import "./App.css";
 
 export default function App() {
   return (
     <div className="App">
-      <div>Hello from App</div>
-      <RandomNuber />
+      <div className="Container">
+        <Piece1 />
+        {/* <RandomNuber /> */}
+      </div>
+      <footer>
+        <p>
+          <a
+            href="https://github.com/MarynaMarkova/Bardo/tree/master"
+            className="profileLink"
+            target="_blank"
+            rel="noreferrer"
+            title="Github code"
+          >
+            Open-source
+          </a>
+          {" by "}
+          <a
+            href="https://marynamarkova.github.io/"
+            className="profileLink"
+            target="_blank"
+            rel="noreferrer"
+            title="Personal page"
+          >
+            Maryna Markova
+          </a>
+        </p>
+        <p>
+          Photo by{" "}
+          <a href="https://unsplash.com/@weirick?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+            Jake Weirick
+          </a>{" "}
+          on{" "}
+          <a href="https://unsplash.com/photos/XL0SE4rtRwg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+            Unsplash
+          </a>
+        </p>
+      </footer>
     </div>
   );
 }
