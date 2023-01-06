@@ -8,6 +8,9 @@ import WhiteTara from "./img/WhiteTara.jpg";
 import bardo from "./img/bardo.jpg";
 import Three_Jewels from "./img/Three_Jewels.png";
 import mirrors from "./img/mirrors.jpg";
+import division from "./img/division.jpg";
+import thunder from "./img/thunder.jpg";
+import nerves from "./img/nerves.jpg";
 
 export default function FullBardo() {
   return (
@@ -220,6 +223,75 @@ export default function FullBardo() {
           </a>{" "}
           on{" "}
           <a href="https://unsplash.com/photos/uogMShrLlhU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+            Unsplash
+          </a>
+        </div>
+      </div>
+      <h2>День 4</h2>
+      <h3>1.</h3>
+      <div>
+        <p>
+          О дитино шляхетного роду, коли розділені твоє тіло й розум,
+          з’являється сутнісна дійсність дгармадгату, вона ясна й чиста, хоч її
+          й складно розпізнати, вона світиться й блищить із жахаючою яскравістю,
+          мерехтить, як міраж на весняній рівнині.
+        </p>
+
+        <p>Не бійся її та не впадай у відчай.</p>
+        <p>Це природне сяйво твоєї сутнісної дійсності – так пізнай же її.</p>
+
+        <img src={division} alt="Division" />
+      </div>
+      <h3>2.</h3>
+      <div>
+        <p>
+          З глибини світла прийде могутній гуркіт – природний звук сутнісної
+          дійсності дгармадгату, подібний до тисячі одночасних ударів грому. Це
+          природний звук твоєї сутнісної дійсності, тому не бійся й не впадай у
+          відчай.
+        </p>
+
+        <p>
+          Зараз ти маєш розумове тіло неусвідомлених прагнень, і в тебе немає
+          тіла з плоті й крові, й ніякі звуки, барви, ніякі промені світла не
+          можуть зашкодити тобі, й ти не можеш померти.
+        </p>
+        <p>Легко зрозуміти їх як твої ж прояви.</p>
+        <p>Знай: це й є бардо.</p>
+
+        <img src={thunder} alt="thunder" />
+        <div className="PhotoBy">
+          Photo by{" "}
+          <a href="https://unsplash.com/@jeremythomasphoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+            Jeremy Thomas
+          </a>{" "}
+          on{" "}
+          <a href="https://unsplash.com/photos/jh2KTqHLMjE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+            Unsplash
+          </a>
+        </div>
+      </div>
+      <h3>3.</h3>
+      <div>
+        <p>
+          О дитино шляхетного роду, якщо ти не пізнаєш, що це твої же прояви,
+          якою би медитацією ти не займалася за життя – якщо ти не зустрінеш те,
+          чому навчилася, кольори налякають тебе, звуки введуть у сум’яття й
+          промені світла збентежать тебе.
+        </p>
+        <p>
+          Не зрозумівши таємної сутності Вчення, ти не пізнаєш звуки, кольори й
+          промені та блукатимеш у самсарі.
+        </p>
+
+        <img src={nerves} alt="nerves" />
+        <div className="PhotoBy">
+          Photo by{" "}
+          <a href="https://unsplash.com/@mittaluday?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
+            Uday Mittal
+          </a>{" "}
+          on{" "}
+          <a href="https://unsplash.com/photos/bwKtz4YVtmA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
             Unsplash
           </a>
         </div>
