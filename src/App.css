@@ -23,6 +23,16 @@ p {
   margin: 20px auto;
 }
 
+img {
+  max-width: 600px;
+  margin: 50px auto;
+  border-radius: 10px;
+}
+
+.Author {
+  font-family: "Alegreya SC", serif;
+}
+
 footer,
 a {
   color: rgb(124, 139, 158);

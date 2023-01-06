@@ -1,13 +1,16 @@
 import RandomNuber from "./RandomNumber";
-import Piece1 from "./Piece1";
+import Piece3 from "./Piece3";
 import "./App.css";
 
 export default function App() {
   return (
     <div className="App">
       <div className="Container">
-        <Piece1 />
+        <Piece3 />
         {/* <RandomNuber /> */}
+        <div className="Author">
+          Падмасамбгава — Настанови й молитви «Книги Великого Визволення»
+        </div>
       </div>
       <footer>
         <p>

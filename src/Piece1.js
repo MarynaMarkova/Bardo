@@ -1,10 +1,12 @@
 import React from "react";
+import fiveElements from "./img/fiveElements.jpg";
 
 export default function Piece1() {
   return (
     <div className="Piece1">
       <h1>Частина I </h1>
       <h2>День 1</h2>
+      <h3>1.</h3>
       <div>
         <p>Ушануймо вчителів, ушануймо Три Тіла Будди: </p>
         <p>Амітабгу – Безмежне Світло, Тіло Дгарми, </p>
@@ -25,6 +27,8 @@ export default function Piece1() {
           Ось з’являються ознаки розчинення землі в воді, води в вогні, вогню в
           повітрі, повітря в просторі, простору – в світлоносній порожнечі.
         </p>
+
+        <img src={fiveElements} alt="Five Elements" />
       </div>
     </div>
   );
