@@ -52,3 +52,10 @@ a {
   padding: 30px 30px;
   border-radius: 15px;
 }
+
+.Blue {
+  background-color: rgb(16, 16, 201);
+  max-width: 700px;
+  border-radius: 15px;
+  margin: 20px auto;
+}
