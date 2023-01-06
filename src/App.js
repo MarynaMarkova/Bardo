@@ -1,4 +1,4 @@
-import RandomNuber from "./RandomNumber";
+// import RandomNuber from "./RandomNumber";
 import Piece3 from "./Piece3";
 import "./App.css";
 
