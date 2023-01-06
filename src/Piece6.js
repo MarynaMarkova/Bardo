@@ -1,16 +1,19 @@
 import React from "react";
+import WhiteTara from "./img/WhiteTara.jpg";
 
 export default function Piece6() {
   return (
     <div className="Piece6">
-      <div>Частина 1. День 1. </div>
+      <h1>Частина I </h1>
+      <h2>День 2</h2>
+      <h3>3.</h3>
       <div>
-        <p>* * *</p>
-        <p>Piece6</p>
         <p>
-          _________ Падмасамбгава — Настанови й молитви «Книги Великого
-          Визволення»
+          О дитино шляхетного роду, медитуй на свого їдама, та хай ніщо не
+          відволікає тебе. Зосередься на їдамові. Уяви його в видимих формах.
         </p>
+
+        <img src={WhiteTara} alt="White Tara" />
       </div>
     </div>
   );
