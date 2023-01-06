@@ -29,6 +29,10 @@ img {
   border-radius: 10px;
 }
 
+ul {
+  text-align: left;
+}
+
 .Author {
   font-family: "Alegreya SC", serif;
 }
@@ -36,4 +40,15 @@ img {
 footer,
 a {
   color: rgb(124, 139, 158);
+}
+
+.PhotoBy {
+  font-size: x-small;
+  margin-bottom: 30px;
+}
+
+.Prayer {
+  background-color: rgba(18, 15, 34, 0.658);
+  padding: 30px 30px;
+  border-radius: 15px;
 }

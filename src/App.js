@@ -1,13 +1,13 @@
 // import RandomNuber from "./RandomNumber";
 // import FullBardo from "./FullBardo";
-import Piece6 from "./Piece6";
+import Piece9 from "./Piece9";
 import "./App.css";
 
 export default function App() {
   return (
     <div className="App">
       <div className="Container">
-        <Piece6 />
+        <Piece9 />
         {/* <FullBardo /> */}
         {/* <RandomNuber /> */}
         <div className="Author">
@@ -36,7 +36,7 @@ export default function App() {
             Maryna Markova
           </a>
         </p>
-        <p>
+        <p className="PhotoBy PhotoInside">
           Photo by{" "}
           <a href="https://unsplash.com/@weirick?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
             Jake Weirick
