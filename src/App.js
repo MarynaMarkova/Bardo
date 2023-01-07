@@ -1,15 +1,15 @@
 // import RandomNuber from "./RandomNumber";
 // import FullBardo1_2 from "./FullBardo1_2";
-import Piece27 from "./Piece27";
+import Piece30 from "./Piece30";
 import "./App.css";
 
 export default function App() {
   return (
     <div className="App">
       <div className="Container">
-        {/* <Piece27 /> */}
+        <Piece30 />
         {/* <FullBardo1_2 /> */}
-        <RandomNuber />
+        {/* <RandomNuber /> */}
         <div className="Author">
           Падмасамбгава — Настанови й молитви «Книги Великого Визволення»
         </div>
