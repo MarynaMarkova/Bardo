@@ -54,7 +54,8 @@ a {
 }
 
 .Blue,
-.White {
+.White,
+.Yellow {
   max-width: 700px;
   border-radius: 15px;
   margin: 20px auto;
@@ -66,4 +67,8 @@ a {
 
 .White {
   background-color: white;
+}
+
+.Yellow {
+  background-color: yellow;
 }
