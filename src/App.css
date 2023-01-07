@@ -53,9 +53,17 @@ a {
   border-radius: 15px;
 }
 
-.Blue {
-  background-color: rgb(16, 16, 201);
+.Blue,
+.White {
   max-width: 700px;
   border-radius: 15px;
   margin: 20px auto;
+}
+
+.Blue {
+  background-color: rgb(16, 16, 201);
+}
+
+.White {
+  background-color: white;
 }
