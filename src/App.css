@@ -58,7 +58,8 @@ a {
 .Yellow,
 .Red,
 .Green,
-.FourLights {
+.FourLights,
+.SoftGreen {
   max-width: 700px;
   border-radius: 15px;
   margin: 20px auto;
@@ -92,4 +93,11 @@ a {
     yellow,
     rgb(216, 15, 15)
   );
+}
+
+.SoftGreen {
+  background-color: rgb(5, 95, 5);
+}
+
+.Signature {
 }

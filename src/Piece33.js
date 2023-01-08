@@ -1,5 +1,5 @@
 import React from "react";
-import Dakini from "./img/Dakini.png";
+import Dakini from "./img/Dakini.jpg";
 
 export default function Piece33() {
   return (
