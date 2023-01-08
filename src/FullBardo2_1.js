@@ -2,6 +2,9 @@ import React from "react";
 import MandalaBardo from "./img/MandalaBardo.jpg";
 import BuddhaHeruka from "./img/BuddhaHeruka.jpg";
 import BuddhaHeruka1 from "./img/BuddhaHeruka1.png";
+import VajraHeruka from "./img/VajraHeruka.jpg";
+import VajraHeruka1 from "./img/VajraHeruka1.jpg";
+import VajraHeruka2 from "./img/VajraHeruka2.png";
 
 export default function FullBardo2_1() {
   return (
@@ -75,6 +78,50 @@ export default function FullBardo2_1() {
         </p>
         <p>Пізнання й звільнення прийдуть одночасно.</p>
         <img src={BuddhaHeruka1} alt="BuddhaHeruka1" />
+      </div>
+      <h2>День 14</h2>
+      <h3>1.</h3>
+      <div>
+        <p>О дитино шляхетного роду, слухай, не відволікаючись. </p>
+        <p>
+          Наступного дня зі східної частини твого мозку вийде й з’явиться перед
+          тобою прояв родини ваджра, що п’є кров, –
+        </p>
+        <p>Благословенний Ваджра-Герука.</p>
+        <p>Його тіло темно-синього кольору, </p>
+        <p>в нього три голови, </p>
+        <p>шість рук і </p>
+        <p>чотири ноги, широко розпростерті. </p>
+        <p>Правий лик його білий, </p>
+        <p>лівий — червоний, </p>
+        <p>а центральний — синього кольору.</p>
+
+        <img src={VajraHeruka} alt="VajraHeruka" />
+      </div>
+      <h3>2.</h3>
+      <div>
+        <p>В правій верхній руці Ваджра-Герука тримає ваджру, </p>
+        <p>в середній – чашу з черепа,</p>
+        <p>в нижній – бойову сокиру; </p>
+        <p>в лівій верхній руці в нього дзвін, </p>
+        <p>в середній – чаша з черепа, </p>
+        <p>в нижній – леміш. </p>
+        <p>Його тіло обіймає його дружина Ваджра-Кродгишварі, </p>
+        <p>обвиває шию правою рукою, </p>
+        <p>а лівою підносить до його рота череп, повний крові.</p>
+
+        <img src={VajraHeruka1} alt="VajraHeruka1" />
+      </div>
+      <h3>3.</h3>
+      <div>
+        <p>Не лякайся Ваджра-Геруку, не жахайся, не збентежуйся. </p>
+        <p>Пізнай його як прояв твого ж розуму. </p>
+        <p>Він – твій їдам, тому не бійся. </p>
+        <p>Воістину він – Благословенний Ваджрасатва зі своєю дружиною, </p>
+        <p>тому вияви пошану. </p>
+        <p>Пізнання й звільнення прийдуть одночасно.</p>
+
+        <img src={VajraHeruka2} alt="VajraHeruka2" />
       </div>
     </div>
   );
