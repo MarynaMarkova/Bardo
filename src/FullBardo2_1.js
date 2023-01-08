@@ -5,6 +5,9 @@ import BuddhaHeruka1 from "./img/BuddhaHeruka1.png";
 import VajraHeruka from "./img/VajraHeruka.jpg";
 import VajraHeruka1 from "./img/VajraHeruka1.jpg";
 import VajraHeruka2 from "./img/VajraHeruka2.png";
+import RatnaHeruka from "./img/RatnaHeruka.jpg";
+import RatnaHeruka1 from "./img/RatnaHeruka1.png";
+import RatnaHeruka2 from "./img/RatnaHeruka2.jpg";
 
 export default function FullBardo2_1() {
   return (
@@ -122,6 +125,52 @@ export default function FullBardo2_1() {
         <p>Пізнання й звільнення прийдуть одночасно.</p>
 
         <img src={VajraHeruka2} alt="VajraHeruka2" />
+      </div>
+      <h2>День 15</h2>
+      <h3>1.</h3>
+      <div>
+        <p>О дитино шляхетного роду, слухай, не відволікаючись. </p>
+        <p>
+          Наступного дня з південної частини твого мозку з’явиться перед тобою
+          прояв родини ратна, що п’є кров, –
+        </p>
+        <p>Благословенний Ратна-Герука. </p>
+        <p>Його тіло темно-жовтого кольору, </p>
+        <p>в нього три голови, </p>
+        <p>шість рук і </p>
+        <p>чотири ноги, широко розпростерті. </p>
+        <p>Правий лик його білий, </p>
+        <p>лівий – червоний, </p>
+        <p>а центральний – блискучого темно-жовтого кольору.</p>
+
+        <img src={RatnaHeruka} alt="RatnaHeruka" />
+      </div>
+      <h3>2.</h3>
+      <div>
+        <p>В правій верхній руці Ратна-Герука тримає дорогоцінність, </p>
+        <p>у середній – тризуб із трьома людськими головами, </p>
+        <p>в нижній – палицю; </p>
+        <p>в лівій верхній руці в нього дзвін, </p>
+        <p>у середній – чаша з черепа, </p>
+        <p>в нижній – тризуб. </p>
+        <p>Його тіло обіймає його дружина Ратна-Кродгишварі, </p>
+        <p>обвиває його шию правою рукою, </p>
+        <p>а лівою підносить до його рота череп, повний крові.</p>
+
+        <img src={RatnaHeruka1} alt="RatnaHeruka1" />
+      </div>
+      <h3>3.</h3>
+      <div>
+        <p>Не лякайся Ратна-Геруку, не жахайся, не збентежуйся. </p>
+        <p>Пізнай його як прояв твого ж розуму. </p>
+        <p>Він – твій їдам, тому не бійся. </p>
+        <p>
+          Воістину, він – Благословенний Ратнасамбгава зі своєю дружиною, –{" "}
+        </p>
+        <p>то відчуй потяг до нього. </p>
+        <p>Пізнання й звільнення прийдуть одночасно.</p>
+
+        <img src={RatnaHeruka2} alt="RatnaHeruka2" />
       </div>
     </div>
   );
