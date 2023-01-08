@@ -11,6 +11,9 @@ import RatnaHeruka2 from "./img/RatnaHeruka2.jpg";
 import PadmaHeruka from "./img/PadmaHeruka.png";
 import PadmaHeruka1 from "./img/PadmaHeruka1.png";
 import PadmaHeruka2 from "./img/PadmaHeruka2.jpg";
+import KarmaHeruka from "./img/KarmaHeruka.jpg";
+import KarmaHeruka1 from "./img/KarmaHeruka1.jpg";
+import KarmaHeruka2 from "./img/KarmaHeruka2.jpg";
 
 export default function FullBardo2_1() {
   return (
@@ -218,6 +221,49 @@ export default function FullBardo2_1() {
         <p>Пізнання й звільнення прийдуть одночасно.</p>
 
         <img src={PadmaHeruka2} alt="PadmaHeruka2" />
+      </div>
+      <h2>День 17</h2>
+      <h3>1.</h3>
+      <div>
+        <p>О дитино шляхетного роду, слухай, не відволікаючись. </p>
+        <p>
+          Наступного дня з північної частини твого мозку вийде й ясно з’явиться
+          перед тобою прояв родини карма, що п’є кров, –
+        </p>
+        <p>Благословенний Карма-Герука. </p>
+        <p>Тіло Карма-Геруки темно-зеленого кольору, </p>
+        <p>в нього три голови, </p>
+        <p>шість рук і </p>
+        <p>чотири ноги, широко розпростерті. </p>
+        <p>Правий лик його білий, </p>
+        <p>лівий – червоний, </p>
+        <p>а середній – величного темно-зеленого кольору.</p>
+
+        <img src={KarmaHeruka} alt="KarmaHeruka" />
+      </div>
+      <h3>2.</h3>
+      <div>
+        <p>В верхній правій руці Карма-Герука тримає меч, </p>
+        <p>у середній – посох, </p>
+        <p>у нижній – жезл; </p>
+        <p>у верхній лівій руці в нього дзвін, </p>
+        <p>у середній – чаша з черепу, </p>
+        <p>в нижній – леміш.</p>
+        <p>Його тіло обіймає його дружина Карма-Кродгишварі,</p>
+        <p>правою рукою обвиває його шию, </p>
+        <p>а лівою – підносить до його рота чашу з черепа, повну крові.</p>
+
+        <img src={KarmaHeruka1} alt="KarmaHeruka1" />
+      </div>
+      <h3>3.</h3>
+      <div>
+        <p>Не бійся Карма-Геруку, не лякайся, не збентежуйся. </p>
+        <p>Пізнай його як прояв свого ж розуму. </p>
+        <p>Він – твій їдам, тому не бійся. </p>
+        <p>Воістину, він – Благословенний Амоґгасідгі зі своєю дружиною, </p>
+        <p>то відчуй відданість і любов.</p>
+
+        <img src={KarmaHeruka2} alt="KarmaHeruka2" />
       </div>
     </div>
   );

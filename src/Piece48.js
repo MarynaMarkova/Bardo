@@ -1,9 +1,9 @@
 import React from "react";
 import PadmaHeruka2 from "./img/PadmaHeruka2.jpg";
 
-export default function Piece47() {
+export default function Piece48() {
   return (
-    <div className="Piece47">
+    <div className="Piece48">
       <h1>Частина II </h1>
       <h2>День 16</h2>
       <h3>3.</h3>
