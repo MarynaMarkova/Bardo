@@ -25,6 +25,17 @@ import Mahabala from "./img/Mahabala.jpg";
 import Rakshasi2 from "./img/Rakshasi2.jpg";
 import Kama from "./img/Kama.jpg";
 import Vasuraksha from "./img/Vasuraksha.jpg";
+import Vajudevi from "./img/Vajudevi.jpg";
+import Nari from "./img/Nari.jpg";
+import Vajra1 from "./img/Vajra1.jpg";
+import Mahahastini from "./img/Mahahastini.jpg";
+import Varagi from "./img/Varagi.jpg";
+import Varunadevi from "./img/Varunadevi.jpg";
+import Vajra2 from "./img/Vajra2.jpg";
+import Vajra3 from "./img/Vajra3.jpg";
+import Vajra4 from "./img/Vajra4.jpg";
+import Vajra5 from "./img/Vajra5.jpg";
+import WratfulDieties2 from "./img/WratfulDieties2.jpg";
 
 export default function FullBardo2_1() {
   return (
@@ -417,6 +428,139 @@ export default function FullBardo2_1() {
         </ul>
         <img src={Vasuraksha} alt="Vasuraksha" />
         <p>Не лякайся їх.</p>
+      </div>
+      <h2>День 20</h2>
+      <h3>1.</h3>
+      <div>
+        <p>
+          О дитино шляхетного роду, з півночі вийдуть із твого мозку й
+          з’являться перед тобою шість йогинь півночі:
+        </p>
+
+        <ul>
+          <li>
+            <p>
+              Ваюдеві, «Богиня вітру» – синя, з головою вовчиці, з прапором, що
+              розвивається, в руці.
+            </p>
+          </li>
+        </ul>
+        <img src={Vajudevi} alt="Vajudevi" />
+        <ul>
+          <li>
+            <p>
+              Нарі, «Жінка» – червона, з головою буйволиці. Вона тримає
+              загострений кіл.
+            </p>
+          </li>
+        </ul>
+        <img src={Nari} alt="Nari" />
+        <ul>
+          <li>
+            <p>
+              Варагі, «Свиня» – чорна, з головою свині. Вона тримає аркан,
+              унизаний зубами.
+            </p>
+          </li>
+        </ul>
+        <img src={Varagi} alt="Varagi" />
+        <ul>
+          <li>
+            <p>
+              Ваджра – червона, з воронячою головою. Вона тримає шкіру дитини.
+            </p>
+          </li>
+        </ul>
+        <img src={Vajra1} alt="Vajra1" />
+        <ul>
+          <li>
+            <p>
+              Магагастині, «Слониха» – темно-зелена, з головою слона. Вона
+              тримає в руці труп гіганта й п’є його кров.
+            </p>
+          </li>
+        </ul>
+        <img src={Mahahastini} alt="Mahahastini" />
+
+        <ul>
+          <li>
+            <p>
+              Та Варунадеві, «Богиня води» – синя, з головою змії. Вона тримає
+              аркан зі змій.
+            </p>
+          </li>
+        </ul>
+        <img src={Varunadevi} alt="Varunadevi" />
+        <p>Не лякайся їх.</p>
+      </div>
+      <h3>2.</h3>
+      <div>
+        <p>
+          О дитино шляхетного роду, з твого мозку вийдуть і з’являться перед
+          тобою чотири йогині брам:
+        </p>
+
+        <ul>
+          <li>
+            <p>
+              Зі сходу – біла Ваджра, з головою зозулі. Вона тримає в руці
+              залізний гак.
+            </p>
+          </li>
+        </ul>
+        <img src={Vajra2} alt="Vajra2" />
+        <ul>
+          <li>
+            <p>
+              Із півдня з'явиться перед тобою жовта Ваджра з головою кози. Вона
+              тримає аркан.
+            </p>
+          </li>
+        </ul>
+        <img src={Vajra3} alt="Vajra3" />
+        <ul>
+          <li>
+            <p>
+              Із заходу з'явиться перед тобою червона Ваджра з головою лева.
+              Вона тримає залізний ланцюг.
+            </p>
+          </li>
+        </ul>
+        <img src={Vajra4} alt="Vajra4" />
+        <ul>
+          <li>
+            <p>
+              Із півночі з'явиться перед тобою темно-зелена Ваджра, з головою
+              змії. Вона тримає дзвін.
+            </p>
+          </li>
+        </ul>
+        <img src={Vajra5} alt="Vajra5" />
+
+        <p>
+          Ці чотири йогині брам вийдуть із твого мозку й з’являться перед тобою.
+        </p>
+        <p>
+          Ці двадцять вісім йогинь мимовільно виникають із гри самоствореної
+          сили гнівних герук – пізнай же їх.
+        </p>
+      </div>
+      <h3>3.</h3>
+      <div>
+        <p>О дитино шляхетного роду, </p>
+        <p>мирні божества з’являються з порожнечі Тіла Дгарми.</p>
+        <p>Пізнай це.</p>
+        <p>Гнівні божества з’являються з сяйва Тіла Блаженства – </p>
+        <p>пізнай же це.</p>
+        <p>Якщо цієї миті, </p>
+        <p>коли з твого мозку виходять і з’являються перед тобою </p>
+        <p>п’ятдесят вісім божеств, які п’ють кров, </p>
+        <p>ти пізнаєш, </p>
+        <p>що все, що існує,</p>
+        <p>виникає з твого ж сяючого розуму – </p>
+        <p>ти негайно станеш Буддою,</p>
+        <p>невіддільним від божеств, які п’ють кров.</p>
+        <img src={WratfulDieties2} alt="WratfulDieties2" />
       </div>
     </div>
   );
