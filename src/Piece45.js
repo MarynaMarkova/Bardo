@@ -1,5 +1,5 @@
 import React from "react";
-import RatnaHeruka2 from "./img/RatnaHeruka2.jpg";
+import RatnaHeruka2 from "./img/RatnaHeruka2.png";
 
 export default function Piece45() {
   return (

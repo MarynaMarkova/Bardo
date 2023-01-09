@@ -1,5 +1,5 @@
 import React from "react";
-import KarmaHeruka2 from "./img/KarmaHeruka2.jpg";
+import KarmaHeruka2 from "./img/KarmaHeruka2.png";
 
 export default function Piece50() {
   return (

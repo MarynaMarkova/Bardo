@@ -3,17 +3,17 @@ import MandalaBardo from "./img/MandalaBardo.jpg";
 import BuddhaHeruka from "./img/BuddhaHeruka.jpg";
 import BuddhaHeruka1 from "./img/BuddhaHeruka1.png";
 import VajraHeruka from "./img/VajraHeruka.jpg";
-import VajraHeruka1 from "./img/VajraHeruka1.jpg";
+import VajraHeruka1 from "./img/VajraHeruka1.png";
 import VajraHeruka2 from "./img/VajraHeruka2.png";
 import RatnaHeruka from "./img/RatnaHeruka.jpg";
 import RatnaHeruka1 from "./img/RatnaHeruka1.png";
-import RatnaHeruka2 from "./img/RatnaHeruka2.jpg";
+import RatnaHeruka2 from "./img/RatnaHeruka2.png";
 import PadmaHeruka from "./img/PadmaHeruka.png";
 import PadmaHeruka1 from "./img/PadmaHeruka1.png";
-import PadmaHeruka2 from "./img/PadmaHeruka2.jpg";
+import PadmaHeruka2 from "./img/PadmaHeruka2.png";
 import KarmaHeruka from "./img/KarmaHeruka.jpg";
 import KarmaHeruka1 from "./img/KarmaHeruka1.jpg";
-import KarmaHeruka2 from "./img/KarmaHeruka2.jpg";
+import KarmaHeruka2 from "./img/KarmaHeruka2.png";
 
 export default function FullBardo2_1() {
   return (

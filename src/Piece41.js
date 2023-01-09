@@ -1,5 +1,5 @@
 import React from "react";
-import VajraHeruka1 from "./img/VajraHeruka1.jpg";
+import VajraHeruka1 from "./img/VajraHeruka1.png";
 
 export default function Piece41() {
   return (
