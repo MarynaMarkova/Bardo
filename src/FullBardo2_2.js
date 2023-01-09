@@ -7,6 +7,24 @@ import Ankusha from "./img/Ankusha.jpg";
 import Pasha from "./img/Pasha.jpg";
 import Shrinkhala from "./img/Shrinkhala.jpg";
 import Ghanta from "./img/Ghanta.jpg";
+import Rakshasi from "./img/Rakshasi.jpg";
+import Bragmi from "./img/Bragmi.jpg";
+import Mahadevi from "./img/Mahadevi.jpg";
+import Lobha from "./img/Lobha.jpg";
+import Kumari from "./img/Kumari.jpg";
+import Indrani from "./img/Indrani.jpg";
+import Vajra from "./img/Vajra.jpg";
+import Shanti from "./img/Shanti.jpg";
+import Amrita from "./img/Amrita.jpg";
+import Kandra from "./img/Kandra.jpg";
+import Danda from "./img/Danda.jpg";
+import Rakshasi1 from "./img/Rakshasi1.jpg";
+import Bhakshini from "./img/Bhakshini.jpg";
+import Rati from "./img/Rati.jpg";
+import Mahabala from "./img/Mahabala.jpg";
+import Rakshasi2 from "./img/Rakshasi2.jpg";
+import Kama from "./img/Kama.jpg";
+import Vasuraksha from "./img/Vasuraksha.jpg";
 
 export default function FullBardo2_1() {
   return (
@@ -205,6 +223,200 @@ export default function FullBardo2_1() {
           перед тобою.
         </p>
         <p>Пізнай їх як їдамів.</p>
+      </div>
+      <h2>День 19</h2>
+      <h3>1.</h3>
+      <div>
+        <p>
+          О дитино шляхетного роду, за тридцятьма гнівними геруками в свою чергу
+          вийдуть із твого мозку й з’являться перед тобою двадцять вісім йогинь
+          із різними головами, різними символами в руках.
+        </p>
+        <p>
+          Не лякайся їх, але пізнай все, що з’являється, як гру твого ж розуму,
+          як твої ж прояви.
+        </p>
+        <p>Досягнувши цієї рішучої миті, пригадай настанови свого Гуру. </p>
+        <p>
+          О дитино шляхетного роду, зі сходу вийдуть із твого мозку й з’являться
+          перед тобою шість йогинь сходу:
+        </p>
+        <ul>
+          <li>
+            <p>
+              Ракшасі, «Демониця» – винного кольору, з головою яка. Вона тримає
+              ваджру в руці.
+            </p>
+          </li>
+        </ul>
+        <img src={Rakshasi} alt="Rakshasi" />
+        <ul>
+          <li>
+            <p>Брагмі – помаранчова, з головою змії. Вона тримає лотос.</p>
+          </li>
+        </ul>
+        <img src={Bragmi} alt="Bragmi" />
+        <ul>
+          <li>
+            <p>
+              Магадеві, «Велика Богиня» – темно-зелена, з головою леопарда. Вона
+              тримає тризуб.
+            </p>
+          </li>
+        </ul>
+        <img src={Mahadevi} alt="Mahadevi" />
+        <ul>
+          <li>
+            <p>
+              Лобга, «Жадібна» – синя, з головою мангуста. Вона тримає колесо.
+            </p>
+          </li>
+        </ul>
+
+        <img src={Lobha} alt="Lobha" />
+        <ul>
+          <li>
+            <p>
+              Кумарі, «Діва» – червона, з головою жовтого ведмедя. Вона тримає
+              короткий спис.
+            </p>
+          </li>
+        </ul>
+
+        <img src={Kumari} alt="Kumari" />
+        <ul>
+          <li>
+            <p>
+              Та Індрані – біла, з головою бурого ведмедя. Вона тримає аркан із
+              кишок.
+            </p>
+          </li>
+        </ul>
+
+        <img src={Indrani} alt="Indrani" />
+        <p>Не лякайся їх.</p>
+      </div>
+      <h3>2.</h3>
+      <div>
+        <p>
+          О дитино шляхетного роду, з півдня вийдуть із твого мозку й з’являться
+          перед тобою шість йогинь півдня:
+        </p>
+
+        <ul>
+          <li>
+            <p>Ваджра – жовта, з головою свині. Вона тримає бритву в руці.</p>
+          </li>
+        </ul>
+        <img src={Vajra} alt="Vajra" />
+        <ul>
+          <li>
+            <p>
+              Шанті, «Мирна» – червона, з головою водяного звіра. Вона тримає
+              вазу.
+            </p>
+          </li>
+        </ul>
+        <img src={Shanti} alt="Shanti" />
+        <ul>
+          <li>
+            <p>
+              Амріта, «Нектар безсмертя» – червона, з головою скорпіона. Вона
+              тримає лотос.
+            </p>
+          </li>
+        </ul>
+        <img src={Amrita} alt="Amrita" />
+        <ul>
+          <li>
+            <p>
+              Кандра, «Місяць» – біла, з головою яструба. Вона тримає ваджру.
+            </p>
+          </li>
+        </ul>
+        <img src={Kandra} alt="Kandra" />
+        <ul>
+          <li>
+            <p>
+              Данда, «Палиця» – темно-зелена, з головою лисиці. Вона тримає
+              палицю.
+            </p>
+          </li>
+        </ul>
+        <img src={Danda} alt="Danda" />
+        <ul>
+          <li>
+            <p>
+              Та Ракшасі, «Демониця» – темно-жовта, з тигрячою головою. Вона
+              тримає череп, повний крові.
+            </p>
+          </li>
+        </ul>
+        <img src={Rakshasi1} alt="Rakshasi1" />
+        <p>Не лякайся їх.</p>
+      </div>
+      <h3>3.</h3>
+      <div>
+        <p>
+          О дитино шляхетного роду, з заходу вийдуть із твого мозку й з’являться
+          перед тобою шість йогинь заходу:
+        </p>
+
+        <ul>
+          <li>
+            <p>
+              Бгакшині, «Та, що поїдає» –темно-зелена, з головою грифа. Вона
+              тримає палицю.
+            </p>
+          </li>
+        </ul>
+        <img src={Bhakshini} alt="Bhakshini" />
+        <ul>
+          <li>
+            <p>
+              Раті, «Насолода» – червона, з конячою головою. Вона тримає в руці
+              труп гіганта.
+            </p>
+          </li>
+        </ul>
+        <img src={Rati} alt="Rati" />
+        <ul>
+          <li>
+            <p>
+              Магабала, «Велика сила» – біла, з головою птаха-гаруди. Вона
+              тримає палицю.
+            </p>
+          </li>
+        </ul>
+        <img src={Mahabala} alt="Mahabala" />
+        <ul>
+          <li>
+            <p>
+              Ракшасі, «Демониця» – червона, з собачою головою. Вона ріже
+              ваджрою, мов бритвою.
+            </p>
+          </li>
+        </ul>
+        <img src={Rakshasi2} alt="Rakshasi2" />
+        <ul>
+          <li>
+            <p>
+              Кама, «Бажання», – червона, з головою одуда. Вона випускає стрілу
+              з лука.
+            </p>
+          </li>
+        </ul>
+        <img src={Kama} alt="Kama" />
+        <ul>
+          <li>
+            <p>
+              Та Васуракша, «Покровителька багатства» – темно-зелена, з головою
+              лані. Вона тримає вазу.
+            </p>
+          </li>
+        </ul>
+        <img src={Vasuraksha} alt="Vasuraksha" />
+        <p>Не лякайся їх.</p>
       </div>
     </div>
   );
