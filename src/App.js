@@ -1,15 +1,15 @@
 // import RandomNuber from "./RandomNumber";
-// import FullBardo2_2 from "./FullBardo2_2";
+import FullBardo2_3 from "./FullBardo2_3";
 // import Meditations from "./Meditations";
-import Piece66 from "./Piece66";
+// import Piece66 from "./Piece66";
 import "./App.css";
 
 export default function App() {
   return (
     <div className="App">
       <div className="Container">
-        <Piece66 />
-        {/* <FullBardo2_2 /> */}
+        {/* <Piece66 /> */}
+        <FullBardo2_3 />
         {/* <Meditations /> */}
         {/* <RandomNuber /> */}
         <div className="Author">
