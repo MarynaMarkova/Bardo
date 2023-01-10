@@ -37,9 +37,9 @@ import Vajra4 from "./img/Vajra4.jpg";
 import Vajra5 from "./img/Vajra5.jpg";
 import WratfulDieties2 from "./img/WratfulDieties2.jpg";
 
-export default function FullBardo2_1() {
+export default function FullBardo2_2() {
   return (
-    <div className="FullBardo2_1">
+    <div className="FullBardo2_2">
       <h2>День 18</h2>
       <h3>1.</h3>
       <div>
