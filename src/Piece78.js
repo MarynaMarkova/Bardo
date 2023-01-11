@@ -20,7 +20,6 @@ export default function Piece78() {
         відсутня сама думка про медитацію.{" "}
       </p>
       <p>Це дуже важливо.</p>
-      <p></p>
 
       <img src={Mahamudra1} alt="Mahamudra1" />
     </div>
