@@ -12,9 +12,9 @@ import Poisons from "./img/Poisons.jpg";
 import joy from "./img/joy.jpg";
 import Mahamudra1 from "./img/Mahamudra1.jpg";
 
-export default function FullBardo3_1() {
+export default function BARDO3_1() {
   return (
-    <div className="FullBardo3_1">
+    <div className="BARDO3_1">
       <h1>Частина III </h1>
       <h2>День 23</h2>
       <h3>1.</h3>
@@ -210,6 +210,8 @@ export default function FullBardo3_1() {
         зазвичай триває до двадцяти одного дня, але це не зовсім точно, тому що
         залежить від карми.
       </p>
+      <img src={Serpanok} alt="Serpanok" />
+
       <h2>День 26</h2>
       <h3>1.</h3>
 
