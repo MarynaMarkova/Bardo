@@ -41,8 +41,6 @@ export default function Piece72() {
 
       <p>пізнай же це та молись своєму вчителеві.</p>
 
-      <p></p>
-
       <img src={Power} alt="Power" />
     </div>
   );
