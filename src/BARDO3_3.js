@@ -8,6 +8,8 @@ import Moon from "./img/Moon.jpg";
 import YabYum from "./img/YabYum.jpg";
 import NoReflection from "./img/NoReflection.jpg";
 import GirlOnHorse from "./img/GirlOnHorse.jpg";
+import Concentration from "./img/Concentration.jpg";
+import BuddhaLono from "./img/BuddhaLono.jpg";
 
 export default function BARDO3_3() {
   return (
@@ -213,6 +215,62 @@ export default function BARDO3_3() {
       <p>Це вельми важливо.</p>
 
       <img className="img-fluid" src={GirlOnHorse} alt="GirlOnHorse" />
+      <h2>День 34</h2>
+      <h3>1.</h3>
+      <br />
+      <p>Нічого не забувай, не відволікайся. </p>
+      <br />
+
+      <p>Настав час, який розділяє шлях догори й донизу; </p>
+
+      <p>
+        настав час, коли миттєва лінь змусить тебе страждати довго, дуже довго;{" "}
+      </p>
+
+      <p>настав час, коли зосередження дуже надовго зробить тебе щасливою. </p>
+
+      <p>Зосередь свій розум; </p>
+
+      <p>прагни подовжити вплив доброї карми.</p>
+
+      <img className="img-fluid" src={Concentration} alt="Concentration" />
+
+      <h3>2.</h3>
+
+      <p>Настав час зачинити брами лона. </p>
+
+      <p>Сказано: </p>
+      <div className="Prayer">
+        <p>Зачини брами лона та міркуй про протидію, </p>
+
+        <p>Прийшов час, коли потрібні стійкість і чиста думка.</p>
+      </div>
+
+      <img className="img-fluid" src={BuddhaLono} alt="BuddhaLono" />
+
+      <h3>3.</h3>
+
+      <p>
+        О дитино шляхетного роду, в цей час з’являться образи чоловіків і жінок,
+        які кохають один одного.{" "}
+      </p>
+
+      <p>
+        Коли ти їх побачиш, не вступай у простір між ними, але пам’ятай, що
+        потрібно медитувати на чоловіка й жінку, як на Ґуру та його дружину.
+      </p>
+
+      <p>
+        Подумки схились перед ними, принеси дари з глибоким благоговінням і
+        попроси настанов; якщо ти сильно зосередишся на цій думці, брами лона
+        безсумнівно зачиняться.
+      </p>
+
+      <img
+        className="img-fluid"
+        src={PadmasambhavaYabYum}
+        alt="PadmasambhavaYabYum"
+      />
     </div>
   );
 }
