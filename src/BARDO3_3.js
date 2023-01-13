@@ -10,6 +10,7 @@ import NoReflection from "./img/NoReflection.jpg";
 import GirlOnHorse from "./img/GirlOnHorse.jpg";
 import Concentration from "./img/Concentration.jpg";
 import BuddhaLono from "./img/BuddhaLono.jpg";
+import PadmasambhavaYabYum from "./img/PadmasambhavaYabYum.jpg";
 import GuruConsort from "./img/GuruConsort.jpg";
 import Egg from "./img/Egg.jpg";
 import Sperm from "./img/Sperm.jpg";
@@ -113,7 +114,10 @@ export default function BARDO3_3() {
         Медитуй так по черзі, потім нехай твій розум теж зникне з країв
         усередину.
       </p>
-
+      <p>
+        Усюди, де існує простір, існує свідомість, і де існує свідомість – там є
+        Тіло Дгарми. Спочивай же в простому й самовідданому стані Тіла Дгарми.
+      </p>
       <img className="img-fluid" src={Padmasambhava} alt="Padmasambhava" />
       <h3>2.</h3>
       <p>
@@ -184,7 +188,7 @@ export default function BARDO3_3() {
       </p>
 
       <img className="img-fluid" src={YabYum} alt="YabYum" />
-      <h2>День 33</h2>
+
       <h3>2.</h3>
       <p>
         Ось зміст цих слів: cлова «тепер, коли для мене сходить зоря бардо
