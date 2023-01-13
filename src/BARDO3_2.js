@@ -9,6 +9,7 @@ import Avalokiteshvara5 from "./img/Avalokiteshvara5.jpg";
 import Rollercoster from "./img/Rollercoster.jpg";
 import ThreeJewels from "./img/ThreeJewels.jpg";
 import mirror from "./img/mirror.jpg";
+import StudentTeacher from "./img/StudentTeacher.png";
 import Avalokiteshvara4 from "./img/Avalokiteshvara4.jpg";
 
 export default function BARDO3_2() {
@@ -242,10 +243,25 @@ export default function BARDO3_2() {
         Будди, тому я наздобуду в них прихисток».{" "}
       </p>
       <p>
-        Тоді тобі допоможе все, що коїться в місці, що ти залишив, тому дуже
+        Тоді тобі допоможе все, що коїться в місці, що ти залишила, тому дуже
         важливо зберегти такі чисті думки; не забувай.
       </p>
       <img className="img-fluid" src={mirror} alt="mirror" />
+      <h3>2.</h3>
+      <p>
+        Якщо ти маєш народитися в одному з трьох нижніх світів, і в той час,
+        коли ти відчуєш ці світи, твої близькі в місці, яке ти залишила,
+        здійснюють благочестиві обряди, що вільні від гріха, та вчителі й
+        наставники слідують святому Вченню в повній чистоті тіла, мови й розуму,
+        ти відчуєш потужну радість, побачивши їх, і це негайно призведе тебе до
+        народження в більш високому світі, навіть, якщо тобі належало зійти до
+        трьох нижніх світів – тому це так корисно.{" "}
+      </p>
+      <p>
+        Тому дуже важливо не мати нечистих думок і відчути чисте благоговіння
+        без упередження – будь же уважна.
+      </p>
+      <img className="img-fluid" src={StudentTeacher} alt="StudentTeacher" />
       <h3>3.</h3>
       <p>
         О дитино шляхетного роду, отже зараз твій розум у стані бардо не має
