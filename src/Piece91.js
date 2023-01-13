@@ -1,9 +1,9 @@
 import React from "react";
 import SamsaraWheel2 from "./img/SamsaraWheel2.jpg";
 
-export default function Piece90() {
+export default function Piece91() {
   return (
-    <div className="Piece90">
+    <div className="Piece91">
       <h1>Частина III </h1>
       <h2>День 31</h2>
       <h3>1.</h3>
