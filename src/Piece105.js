@@ -20,7 +20,6 @@ export default function Piece105() {
         Це змусить тебе вступити на шлях, що веде до лона, й ти відчуєш
         самодовліюче блаженство, коли зустрінуться сперматозоїд і яйце.
       </p>
-      <p></p>
 
       <img className="img-fluid" src={Sperm} alt="Sperm" />
     </div>

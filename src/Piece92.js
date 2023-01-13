@@ -1,5 +1,5 @@
 import React from "react";
-import SamsaraColor from "./img/SamsaraColor.png";
+import SamsaraColor from "./img/SamsaraColor.jpg";
 
 export default function Piece92() {
   return (
