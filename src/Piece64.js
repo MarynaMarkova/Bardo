@@ -26,7 +26,7 @@ export default function Piece64() {
         зроблять тебе Буддою.
       </p>
 
-      <img src={Mahakala} alt="Mahakala" />
+      <img className="img-fluid" src={Mahakala} alt="Mahakala" />
     </div>
   );
 }

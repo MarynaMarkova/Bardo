@@ -29,7 +29,7 @@ export default function Piece67() {
         прояснилась і виникло нове тіло, подібне до того, що було в тебе раніше.
       </p>
 
-      <img src={NewBody} alt="NewBody" />
+      <img className="img-fluid" src={NewBody} alt="NewBody" />
     </div>
   );
 }

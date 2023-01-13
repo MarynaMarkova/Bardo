@@ -34,7 +34,11 @@ export default function Piece71() {
         Великого Співчуття.
       </p>
 
-      <img src={Avalokiteshvara2} alt="Avalokiteshvara2" />
+      <img
+        className="img-fluid"
+        src={Avalokiteshvara2}
+        alt="Avalokiteshvara2"
+      />
     </div>
   );
 }

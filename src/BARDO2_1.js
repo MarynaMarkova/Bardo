@@ -30,7 +30,7 @@ export default function FullBardo2_1() {
         </p>
         <p>Тепер, наступного дня, з’являться гнівні божества, що п’ють кров.</p>
 
-        <img src={MandalaBardo} alt="MandalaBardo" />
+        <img className="img-fluid" src={MandalaBardo} alt="MandalaBardo" />
       </div>
       <h3>2.</h3>
       <div>
@@ -57,7 +57,7 @@ export default function FullBardo2_1() {
         <p>Він регоче, викрикуючи: «а-ла-ла!» й «ха-ха!», </p>
         <p>видає голосні свистячі звуки: «шу-у!».</p>
 
-        <img src={BuddhaHeruka} alt="BuddhaHeruka" />
+        <img className="img-fluid" src={BuddhaHeruka} alt="BuddhaHeruka" />
       </div>
       <h3>3.</h3>
       <div>
@@ -86,7 +86,7 @@ export default function FullBardo2_1() {
           жахайся.{" "}
         </p>
         <p>Пізнання й звільнення прийдуть одночасно.</p>
-        <img src={BuddhaHeruka1} alt="BuddhaHeruka1" />
+        <img className="img-fluid" src={BuddhaHeruka1} alt="BuddhaHeruka1" />
       </div>
       <h2>День 14</h2>
       <h3>1.</h3>
@@ -105,7 +105,7 @@ export default function FullBardo2_1() {
         <p>лівий — червоний, </p>
         <p>а центральний — синього кольору.</p>
 
-        <img src={VajraHeruka} alt="VajraHeruka" />
+        <img className="img-fluid" src={VajraHeruka} alt="VajraHeruka" />
       </div>
       <h3>2.</h3>
       <div>
@@ -119,7 +119,7 @@ export default function FullBardo2_1() {
         <p>обвиває шию правою рукою, </p>
         <p>а лівою підносить до його рота череп, повний крові.</p>
 
-        <img src={VajraHeruka1} alt="VajraHeruka1" />
+        <img className="img-fluid" src={VajraHeruka1} alt="VajraHeruka1" />
       </div>
       <h3>3.</h3>
       <div>
@@ -130,7 +130,7 @@ export default function FullBardo2_1() {
         <p>тому вияви пошану. </p>
         <p>Пізнання й звільнення прийдуть одночасно.</p>
 
-        <img src={VajraHeruka2} alt="VajraHeruka2" />
+        <img className="img-fluid" src={VajraHeruka2} alt="VajraHeruka2" />
       </div>
       <h2>День 15</h2>
       <h3>1.</h3>
@@ -149,7 +149,7 @@ export default function FullBardo2_1() {
         <p>лівий – червоний, </p>
         <p>а центральний – блискучого темно-жовтого кольору.</p>
 
-        <img src={RatnaHeruka} alt="RatnaHeruka" />
+        <img className="img-fluid" src={RatnaHeruka} alt="RatnaHeruka" />
       </div>
       <h3>2.</h3>
       <div>
@@ -163,7 +163,7 @@ export default function FullBardo2_1() {
         <p>обвиває його шию правою рукою, </p>
         <p>а лівою підносить до його рота череп, повний крові.</p>
 
-        <img src={RatnaHeruka1} alt="RatnaHeruka1" />
+        <img className="img-fluid" src={RatnaHeruka1} alt="RatnaHeruka1" />
       </div>
       <h3>3.</h3>
       <div>
@@ -176,7 +176,7 @@ export default function FullBardo2_1() {
         <p>то відчуй потяг до нього. </p>
         <p>Пізнання й звільнення прийдуть одночасно.</p>
 
-        <img src={RatnaHeruka2} alt="RatnaHeruka2" />
+        <img className="img-fluid" src={RatnaHeruka2} alt="RatnaHeruka2" />
       </div>
       <h2>День 16</h2>
       <h3>1.</h3>
@@ -195,7 +195,7 @@ export default function FullBardo2_1() {
         <p>лівий – синій, </p>
         <p>а центральний – темно-червоного кольору.</p>
 
-        <img src={PadmaHeruka} alt="PadmaHeruka" />
+        <img className="img-fluid" src={PadmaHeruka} alt="PadmaHeruka" />
       </div>
       <h3>2.</h3>
       <div>
@@ -209,7 +209,7 @@ export default function FullBardo2_1() {
         <p>обвиває його шию правою рукою, </p>
         <p>а лівою – підносить до його рота чашу з черепа, повну крові.</p>
 
-        <img src={PadmaHeruka1} alt="PadmaHeruka1" />
+        <img className="img-fluid" src={PadmaHeruka1} alt="PadmaHeruka1" />
       </div>
       <h3>3.</h3>
       <div>
@@ -220,7 +220,7 @@ export default function FullBardo2_1() {
         <p>то відчуй любов до нього. </p>
         <p>Пізнання й звільнення прийдуть одночасно.</p>
 
-        <img src={PadmaHeruka2} alt="PadmaHeruka2" />
+        <img className="img-fluid" src={PadmaHeruka2} alt="PadmaHeruka2" />
       </div>
       <h2>День 17</h2>
       <h3>1.</h3>
@@ -239,7 +239,7 @@ export default function FullBardo2_1() {
         <p>лівий – червоний, </p>
         <p>а середній – величного темно-зеленого кольору.</p>
 
-        <img src={KarmaHeruka} alt="KarmaHeruka" />
+        <img className="img-fluid" src={KarmaHeruka} alt="KarmaHeruka" />
       </div>
       <h3>2.</h3>
       <div>
@@ -253,7 +253,7 @@ export default function FullBardo2_1() {
         <p>правою рукою обвиває його шию, </p>
         <p>а лівою – підносить до його рота чашу з черепа, повну крові.</p>
 
-        <img src={KarmaHeruka1} alt="KarmaHeruka1" />
+        <img className="img-fluid" src={KarmaHeruka1} alt="KarmaHeruka1" />
       </div>
       <h3>3.</h3>
       <div>
@@ -263,7 +263,7 @@ export default function FullBardo2_1() {
         <p>Воістину, він – Благословенний Амоґгасідгі зі своєю дружиною, </p>
         <p>то відчуй відданість і любов.</p>
 
-        <img src={KarmaHeruka2} alt="KarmaHeruka2" />
+        <img className="img-fluid" src={KarmaHeruka2} alt="KarmaHeruka2" />
       </div>
     </div>
   );

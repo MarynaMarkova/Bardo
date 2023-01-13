@@ -42,7 +42,7 @@ export default function Piece73() {
         бачать.
       </p>
 
-      <img src={Monks} alt="Monks" />
+      <img className="img-fluid" src={Monks} alt="Monks" />
     </div>
   );
 }

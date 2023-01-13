@@ -33,7 +33,7 @@ export default function Piece18() {
         </div>
 
         <div className="White">
-          <img src={Vajrasattva2} alt="Vajrasattva2" />
+          <img className="img-fluid" src={Vajrasattva2} alt="Vajrasattva2" />
         </div>
       </div>
     </div>

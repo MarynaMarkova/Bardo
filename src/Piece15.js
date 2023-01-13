@@ -38,7 +38,7 @@ export default function Piece15() {
         </div>
 
         <div className="Blue">
-          <img src={WhiteTara1} alt="WhiteTara1" />
+          <img className="img-fluid" src={WhiteTara1} alt="WhiteTara1" />
         </div>
       </div>
     </div>

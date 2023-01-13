@@ -21,7 +21,11 @@ export default function Piece60() {
         <p>виникає з твого ж сяючого розуму – </p>
         <p>ти негайно станеш Буддою,</p>
         <p>невіддільним від божеств, які п’ють кров.</p>
-        <img src={WratfulDieties2} alt="WratfulDieties2" />
+        <img
+          className="img-fluid"
+          src={WratfulDieties2}
+          alt="WratfulDieties2"
+        />
       </div>
     </div>
   );

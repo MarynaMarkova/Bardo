@@ -33,7 +33,7 @@ export default function Piece39() {
           жахайся.{" "}
         </p>
         <p>Пізнання й звільнення прийдуть одночасно.</p>
-        <img src={BuddhaHeruka1} alt="BuddhaHeruka1" />
+        <img className="img-fluid" src={BuddhaHeruka1} alt="BuddhaHeruka1" />
       </div>
     </div>
   );

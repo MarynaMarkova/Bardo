@@ -22,7 +22,7 @@ export default function Piece43() {
         <p>лівий – червоний, </p>
         <p>а центральний – блискучого темно-жовтого кольору.</p>
 
-        <img src={RatnaHeruka} alt="RatnaHeruka" />
+        <img className="img-fluid" src={RatnaHeruka} alt="RatnaHeruka" />
       </div>
     </div>
   );

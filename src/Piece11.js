@@ -23,7 +23,7 @@ export default function Piece11() {
         <p>Легко зрозуміти їх як твої ж прояви.</p>
         <p>Знай: це й є бардо.</p>
 
-        <img src={thunder} alt="thunder" />
+        <img className="img-fluid" src={thunder} alt="thunder" />
         <div className="PhotoBy">
           Photo by{" "}
           <a href="https://unsplash.com/@jeremythomasphoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">

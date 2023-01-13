@@ -30,7 +30,7 @@ export default function Piece34() {
         </p>
 
         <div className="SoftGreen">
-          <img src={FiveWisdoms} alt="FiveWisdoms" />
+          <img className="img-fluid" src={FiveWisdoms} alt="FiveWisdoms" />
         </div>
       </div>
     </div>

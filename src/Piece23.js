@@ -36,7 +36,7 @@ export default function Piece23() {
         <p> Проникнись вірою та не кидайся геть.</p>
         <p>Навіть, якщо ти відвернешся, він перебуватиме неподільно з тобою.</p>
         <div className="Red">
-          <img src={Amitabha1} alt="Amitabha1" />
+          <img className="img-fluid" src={Amitabha1} alt="Amitabha1" />
         </div>
       </div>
     </div>

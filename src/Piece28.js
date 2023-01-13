@@ -64,7 +64,7 @@ export default function Piece28() {
           </p>
         </ul>
         <div className="FourLights">
-          <img src={FiveBuddhas} alt="FiveBuddhas" />
+          <img className="img-fluid" src={FiveBuddhas} alt="FiveBuddhas" />
         </div>
       </div>
     </div>

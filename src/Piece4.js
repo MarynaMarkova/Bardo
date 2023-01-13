@@ -25,7 +25,7 @@ export default function Piece4() {
           Будди.
         </p>
 
-        <img src={Adibuddha} alt="Adibuddha" />
+        <img className="img-fluid" src={Adibuddha} alt="Adibuddha" />
       </div>
     </div>
   );

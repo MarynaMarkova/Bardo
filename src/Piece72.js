@@ -41,7 +41,7 @@ export default function Piece72() {
 
       <p>пізнай же це та молись своєму вчителеві.</p>
 
-      <img src={Power} alt="Power" />
+      <img className="img-fluid" src={Power} alt="Power" />
     </div>
   );
 }

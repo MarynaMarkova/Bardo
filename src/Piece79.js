@@ -25,7 +25,7 @@ export default function Piece79() {
         в його первісному стані.{" "}
       </p>
 
-      <img src={Nepevnenist} alt="Nepevnenist" />
+      <img className="img-fluid" src={Nepevnenist} alt="Nepevnenist" />
     </div>
   );
 }

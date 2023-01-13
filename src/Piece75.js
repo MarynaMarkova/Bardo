@@ -37,7 +37,7 @@ export default function Piece75() {
         залежить від карми.
       </p>
 
-      <img src={Serpanok} alt="Serpanok" />
+      <img className="img-fluid" src={Serpanok} alt="Serpanok" />
     </div>
   );
 }

@@ -59,7 +59,11 @@ export default function Piece36() {
         </p>
 
         <div className="FourLights">
-          <img src={PeacefulBardo1} alt="PeacefulBardo1" />
+          <img
+            className="img-fluid"
+            src={PeacefulBardo1}
+            alt="PeacefulBardo1"
+          />
         </div>
       </div>
     </div>

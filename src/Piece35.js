@@ -17,7 +17,7 @@ export default function Piece35() {
         <p> Пізнай його як гру твого ж розуму, як власний прояв.</p>
 
         <div className="FourLights">
-          <img src={Thunder1} alt="Thunder1" />
+          <img className="img-fluid" src={Thunder1} alt="Thunder1" />
         </div>
       </div>
       <div className="PhotoBy">

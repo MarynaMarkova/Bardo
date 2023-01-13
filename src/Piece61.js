@@ -28,7 +28,7 @@ export default function Piece61() {
         самсарі.
       </p>
 
-      <img src={WratfulDieties3} alt="WratfulDieties3" />
+      <img className="img-fluid" src={WratfulDieties3} alt="WratfulDieties3" />
     </div>
   );
 }

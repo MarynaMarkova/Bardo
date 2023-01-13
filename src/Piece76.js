@@ -61,7 +61,7 @@ export default function Piece76() {
 
       <p>Палко відтворюй цю молитву; не забувай.</p>
 
-      <img src={Poisons} alt="Poisons" />
+      <img className="img-fluid" src={Poisons} alt="Poisons" />
     </div>
   );
 }

@@ -51,7 +51,7 @@ export default function FullBardo1_2() {
         </p>
 
         <div className="White">
-          <img src={Vajrasattva} alt="Vajrasattva" />
+          <img className="img-fluid" src={Vajrasattva} alt="Vajrasattva" />
         </div>
       </div>
       <h3>2.</h3>
@@ -80,7 +80,7 @@ export default function FullBardo1_2() {
         </p>
 
         <div className="White">
-          <img src={Vajrasattva1} alt="Vajrasattva1" />
+          <img className="img-fluid" src={Vajrasattva1} alt="Vajrasattva1" />
         </div>
       </div>
       <h3>3.</h3>
@@ -110,7 +110,7 @@ export default function FullBardo1_2() {
         </div>
 
         <div className="White">
-          <img src={Vajrasattva2} alt="Vajrasattva2" />
+          <img className="img-fluid" src={Vajrasattva2} alt="Vajrasattva2" />
         </div>
       </div>
       <h2>День 7</h2>
@@ -141,7 +141,7 @@ export default function FullBardo1_2() {
         </p>
 
         <div className="Yellow">
-          <img src={Ratnasambhava} alt="Ratnasambhava" />
+          <img className="img-fluid" src={Ratnasambhava} alt="Ratnasambhava" />
         </div>
       </div>
       <h3>2.</h3>
@@ -180,7 +180,11 @@ export default function FullBardo1_2() {
         </p>
 
         <div className="Yellow">
-          <img src={Ratnasambhava1} alt="Ratnasambhava1" />
+          <img
+            className="img-fluid"
+            src={Ratnasambhava1}
+            alt="Ratnasambhava1"
+          />
         </div>
       </div>
       <h3>3.</h3>
@@ -210,7 +214,11 @@ export default function FullBardo1_2() {
         </div>
 
         <div className="Yellow">
-          <img src={Ratnasambhava2} alt="Ratnasambhava2" />
+          <img
+            className="img-fluid"
+            src={Ratnasambhava2}
+            alt="Ratnasambhava2"
+          />
         </div>
       </div>
       <h2>День 8</h2>
@@ -240,7 +248,7 @@ export default function FullBardo1_2() {
         </p>
         <p>Не бійся її.</p>
         <div className="Red">
-          <img src={Amitabha} alt="Amitabha" />
+          <img className="img-fluid" src={Amitabha} alt="Amitabha" />
         </div>
       </div>
       <h3>2.</h3>
@@ -273,7 +281,7 @@ export default function FullBardo1_2() {
         <p> Проникнись вірою та не кидайся геть.</p>
         <p>Навіть, якщо ти відвернешся, він перебуватиме неподільно з тобою.</p>
         <div className="Red">
-          <img src={Amitabha1} alt="Amitabha1" />
+          <img className="img-fluid" src={Amitabha1} alt="Amitabha1" />
         </div>
       </div>
       <h3>3.</h3>
@@ -303,7 +311,7 @@ export default function FullBardo1_2() {
         </div>
 
         <div className="Red">
-          <img src={Amitabha2} alt="Amitabha2" />
+          <img className="img-fluid" src={Amitabha2} alt="Amitabha2" />
         </div>
       </div>
       <h2>День 9</h2>
@@ -339,7 +347,7 @@ export default function FullBardo1_2() {
         </p>
 
         <div className="Green">
-          <img src={Amoghasiddhi} alt="Amoghasiddhi" />
+          <img className="img-fluid" src={Amoghasiddhi} alt="Amoghasiddhi" />
         </div>
       </div>
       <h3>2.</h3>
@@ -373,7 +381,7 @@ export default function FullBardo1_2() {
         </p>
 
         <div className="Green">
-          <img src={Amoghasiddhi1} alt="Amoghasiddhi1" />
+          <img className="img-fluid" src={Amoghasiddhi1} alt="Amoghasiddhi1" />
         </div>
       </div>
       <h3>3.</h3>
@@ -403,7 +411,7 @@ export default function FullBardo1_2() {
         </div>
 
         <div className="Green">
-          <img src={Amoghasiddhi2} alt="Amoghasiddhi2" />
+          <img className="img-fluid" src={Amoghasiddhi2} alt="Amoghasiddhi2" />
         </div>
       </div>
       <h2>День 10</h2>
@@ -465,7 +473,7 @@ export default function FullBardo1_2() {
           </p>
         </ul>
         <div className="FourLights">
-          <img src={FiveBuddhas} alt="FiveBuddhas" />
+          <img className="img-fluid" src={FiveBuddhas} alt="FiveBuddhas" />
         </div>
       </div>
       <h3>2.</h3>
@@ -555,7 +563,7 @@ export default function FullBardo1_2() {
         <p>Пізнай їх, бо вони – твої їдами.</p>
 
         <div className="FourLights">
-          <img src={PeacefulBardo} alt="PeacefulBardo" />
+          <img className="img-fluid" src={PeacefulBardo} alt="PeacefulBardo" />
         </div>
       </div>
       <h3>3.</h3>
@@ -616,7 +624,7 @@ export default function FullBardo1_2() {
         </p>
 
         <div className="FourLights">
-          <img src={FiveBuddhas1} alt="FiveBuddhas1" />
+          <img className="img-fluid" src={FiveBuddhas1} alt="FiveBuddhas1" />
         </div>
       </div>
       <h2>День 11</h2>
@@ -697,7 +705,7 @@ export default function FullBardo1_2() {
         </div>
 
         <div className="FourLights">
-          <img src={SamsaraWheel} alt="SamsaraWheel" />
+          <img className="img-fluid" src={SamsaraWheel} alt="SamsaraWheel" />
         </div>
       </div>
       <h3>2.</h3>
@@ -758,7 +766,7 @@ export default function FullBardo1_2() {
         </ul>
 
         <div className="FourLights">
-          <img src={Vidjadharas} alt="Vidjadharas" />
+          <img className="img-fluid" src={Vidjadharas} alt="Vidjadharas" />
         </div>
       </div>
       <h3>3.</h3>
@@ -794,7 +802,7 @@ export default function FullBardo1_2() {
           віддав його забуттю.
         </p>
         <div className="FourLights">
-          <img src={Dakini} alt="Dakini" />
+          <img className="img-fluid" src={Dakini} alt="Dakini" />
         </div>
       </div>
       <h2>День 12</h2>
@@ -822,7 +830,7 @@ export default function FullBardo1_2() {
         </p>
 
         <div className="SoftGreen">
-          <img src={FiveWisdoms} alt="FiveWisdoms" />
+          <img className="img-fluid" src={FiveWisdoms} alt="FiveWisdoms" />
         </div>
       </div>
       <h3>2.</h3>
@@ -836,7 +844,7 @@ export default function FullBardo1_2() {
         <p> Пізнай його як гру твого ж розуму, як власний прояв.</p>
 
         <div className="FourLights">
-          <img src={Thunder1} alt="Thunder1" />
+          <img className="img-fluid" src={Thunder1} alt="Thunder1" />
         </div>
       </div>
       <div className="PhotoBy">
@@ -900,7 +908,11 @@ export default function FullBardo1_2() {
         </div>
 
         <div className="FourLights">
-          <img src={PeacefulBardo1} alt="PeacefulBardo1" />
+          <img
+            className="img-fluid"
+            src={PeacefulBardo1}
+            alt="PeacefulBardo1"
+          />
         </div>
       </div>
     </div>

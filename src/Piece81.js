@@ -31,7 +31,7 @@ export default function Piece81() {
         прагнення до тіла й незворушно спочивай у стані недіяння.
       </p>
 
-      <img src={Nediyannia} alt="Nediyannia" />
+      <img className="img-fluid" src={Nediyannia} alt="Nediyannia" />
     </div>
   );
 }

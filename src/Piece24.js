@@ -33,7 +33,7 @@ export default function Piece24() {
         </div>
 
         <div className="Red">
-          <img src={Amitabha2} alt="Amitabha2" />
+          <img className="img-fluid" src={Amitabha2} alt="Amitabha2" />
         </div>
       </div>
     </div>

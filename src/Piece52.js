@@ -39,7 +39,7 @@ export default function Piece52() {
             </p>
           </li>
         </ul>
-        <img src={Gauri1} alt="Gauri1" />
+        <img className="img-fluid" src={Gauri1} alt="Gauri1" />
         <ul>
           <li>
             <p>
@@ -74,7 +74,7 @@ export default function Piece52() {
         <p> що п’ють кров, вийдуть із твого мозку й з’являться перед тобою.</p>
         <p>Не лякайся їх.</p>
 
-        <img src={Gauri2} alt="Gauri2" />
+        <img className="img-fluid" src={Gauri2} alt="Gauri2" />
       </div>
     </div>
   );

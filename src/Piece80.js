@@ -18,7 +18,7 @@ export default function Piece80() {
       </p>
       <p>Цієї миті насолода та біль визначаються твоєю кармою.</p>
 
-      <img src={Nepevnenist} alt="Nepevnenist" />
+      <img className="img-fluid" src={Nepevnenist} alt="Nepevnenist" />
     </div>
   );
 }

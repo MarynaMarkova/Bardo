@@ -23,7 +23,7 @@ export default function Piece8() {
 
         <p>Пам’ятай про Три Дорогоцінності: Будду, Сангґу й Дгарму.</p>
 
-        <img src={Three_Jewels} alt="Three Jewels" />
+        <img className="img-fluid" src={Three_Jewels} alt="Three Jewels" />
       </div>
     </div>
   );

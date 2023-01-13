@@ -30,7 +30,11 @@ export default function Piece69() {
 
       <p>Повторюю знову й знову – не відволікайся!</p>
 
-      <img src={Avalokiteshvara1} alt="Avalokiteshvara1" />
+      <img
+        className="img-fluid"
+        src={Avalokiteshvara1}
+        alt="Avalokiteshvara1"
+      />
     </div>
   );
 }

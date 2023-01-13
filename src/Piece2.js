@@ -25,7 +25,7 @@ export default function Piece2() {
           вчення про медитацію, яке ти пізнала раніше.
         </p>
 
-        <img src={mahamudra} alt="Maha Mudra Mandala" />
+        <img className="img-fluid" src={mahamudra} alt="Maha Mudra Mandala" />
       </div>
     </div>
   );

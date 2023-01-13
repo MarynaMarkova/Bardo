@@ -64,7 +64,7 @@ export default function Piece32() {
         </ul>
 
         <div className="FourLights">
-          <img src={Vidjadharas} alt="Vidjadharas" />
+          <img className="img-fluid" src={Vidjadharas} alt="Vidjadharas" />
         </div>
       </div>
     </div>

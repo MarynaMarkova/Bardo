@@ -42,7 +42,7 @@ export default function Piece65() {
       </p>
       <p>Порожнеча не може зашкодити порожнечі. </p>
 
-      <img src={Yama} alt="Yama" />
+      <img className="img-fluid" src={Yama} alt="Yama" />
     </div>
   );
 }

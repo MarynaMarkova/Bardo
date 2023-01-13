@@ -31,7 +31,7 @@ export default function Piece16() {
         </p>
 
         <div className="White">
-          <img src={Vajrasattva} alt="Vajrasattva" />
+          <img className="img-fluid" src={Vajrasattva} alt="Vajrasattva" />
         </div>
       </div>
     </div>

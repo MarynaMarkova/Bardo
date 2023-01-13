@@ -32,7 +32,7 @@ export default function FullBardo2_3() {
         самсарі.
       </p>
 
-      <img src={WratfulDieties3} alt="WratfulDieties3" />
+      <img className="img-fluid" src={WratfulDieties3} alt="WratfulDieties3" />
 
       <h3>2.</h3>
 
@@ -50,7 +50,7 @@ export default function FullBardo2_3() {
         променями й образами, й ти станеш Буддою.
       </p>
 
-      <img src={WratfulDieties} alt="WratfulDieties" />
+      <img className="img-fluid" src={WratfulDieties} alt="WratfulDieties" />
       <h3>3.</h3>
 
       <p>О дитино! </p>
@@ -71,7 +71,7 @@ export default function FullBardo2_3() {
 
       <p>Пам’ятай!</p>
 
-      <img src={MindLight} alt="MindLight" />
+      <img className="img-fluid" src={MindLight} alt="MindLight" />
 
       <h2>День 22</h2>
       <h3>1.</h3>
@@ -94,7 +94,7 @@ export default function FullBardo2_3() {
         зроблять тебе Буддою.
       </p>
 
-      <img src={Mahakala} alt="Mahakala" />
+      <img className="img-fluid" src={Mahakala} alt="Mahakala" />
 
       <h3>2.</h3>
 
@@ -135,7 +135,7 @@ export default function FullBardo2_3() {
       </p>
 
       <p>Порожнеча не може зашкодити порожнечі. </p>
-      <img src={Yama} alt="Yama" />
+      <img className="img-fluid" src={Yama} alt="Yama" />
 
       <h3>3.</h3>
       <p>
@@ -208,7 +208,7 @@ export default function FullBardo2_3() {
         бардо), що зветься «Велике Визволення в результаті почутого», про Вчення
         бардо, що звільнює, коли почуто й побачено.
       </div>
-      <img src={Bardo1} alt="Bardo1" />
+      <img className="img-fluid" src={Bardo1} alt="Bardo1" />
     </div>
   );
 }

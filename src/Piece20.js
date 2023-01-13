@@ -42,7 +42,11 @@ export default function Piece20() {
         </p>
 
         <div className="Yellow">
-          <img src={Ratnasambhava1} alt="Ratnasambhava1" />
+          <img
+            className="img-fluid"
+            src={Ratnasambhava1}
+            alt="Ratnasambhava1"
+          />
         </div>
       </div>
     </div>

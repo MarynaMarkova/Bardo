@@ -19,7 +19,7 @@ export default function Piece77() {
         з’являться їм.
       </p>
 
-      <img src={joy} alt="joy" />
+      <img className="img-fluid" src={joy} alt="joy" />
     </div>
   );
 }

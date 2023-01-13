@@ -26,7 +26,7 @@ export default function Piece58() {
             </p>
           </li>
         </ul>
-        <img src={Vajudevi} alt="Vajudevi" />
+        <img className="img-fluid" src={Vajudevi} alt="Vajudevi" />
         <ul>
           <li>
             <p>
@@ -35,7 +35,7 @@ export default function Piece58() {
             </p>
           </li>
         </ul>
-        <img src={Nari} alt="Nari" />
+        <img className="img-fluid" src={Nari} alt="Nari" />
         <ul>
           <li>
             <p>
@@ -44,7 +44,7 @@ export default function Piece58() {
             </p>
           </li>
         </ul>
-        <img src={Varagi} alt="Varagi" />
+        <img className="img-fluid" src={Varagi} alt="Varagi" />
         <ul>
           <li>
             <p>
@@ -52,7 +52,7 @@ export default function Piece58() {
             </p>
           </li>
         </ul>
-        <img src={Vajra1} alt="Vajra1" />
+        <img className="img-fluid" src={Vajra1} alt="Vajra1" />
         <ul>
           <li>
             <p>
@@ -61,7 +61,7 @@ export default function Piece58() {
             </p>
           </li>
         </ul>
-        <img src={Mahahastini} alt="Mahahastini" />
+        <img className="img-fluid" src={Mahahastini} alt="Mahahastini" />
 
         <ul>
           <li>
@@ -71,7 +71,7 @@ export default function Piece58() {
             </p>
           </li>
         </ul>
-        <img src={Varunadevi} alt="Varunadevi" />
+        <img className="img-fluid" src={Varunadevi} alt="Varunadevi" />
         <p>Не лякайся їх.</p>
       </div>
     </div>

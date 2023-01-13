@@ -22,7 +22,7 @@ export default function Piece49() {
         <p>лівий – червоний, </p>
         <p>а середній – величного темно-зеленого кольору.</p>
 
-        <img src={KarmaHeruka} alt="KarmaHeruka" />
+        <img className="img-fluid" src={KarmaHeruka} alt="KarmaHeruka" />
       </div>
     </div>
   );

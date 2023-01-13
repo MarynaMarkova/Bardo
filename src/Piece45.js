@@ -17,7 +17,7 @@ export default function Piece45() {
         <p>то відчуй потяг до нього. </p>
         <p>Пізнання й звільнення прийдуть одночасно.</p>
 
-        <img src={RatnaHeruka2} alt="RatnaHeruka2" />
+        <img className="img-fluid" src={RatnaHeruka2} alt="RatnaHeruka2" />
       </div>
     </div>
   );

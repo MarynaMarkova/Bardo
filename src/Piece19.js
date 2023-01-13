@@ -33,7 +33,7 @@ export default function Piece19() {
         </p>
 
         <div className="Yellow">
-          <img src={Ratnasambhava} alt="Ratnasambhava" />
+          <img className="img-fluid" src={Ratnasambhava} alt="Ratnasambhava" />
         </div>
       </div>
     </div>

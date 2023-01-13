@@ -27,7 +27,7 @@ export default function BARDO3_2() {
         в його первісному стані.{" "}
       </p>
 
-      <img src={Hut} alt="Hut" />
+      <img className="img-fluid" src={Hut} alt="Hut" />
 
       <h3>2.</h3>
 
@@ -41,7 +41,7 @@ export default function BARDO3_2() {
       </p>
       <p>Цієї миті насолода та біль визначаються твоєю кармою.</p>
 
-      <img src={Nepevnenist} alt="Nepevnenist" />
+      <img className="img-fluid" src={Nepevnenist} alt="Nepevnenist" />
 
       <h3>3.</h3>
 
@@ -68,7 +68,7 @@ export default function BARDO3_2() {
         прагнення до тіла й незворушно спочивай у стані недіяння.
       </p>
 
-      <img src={Nediyannia} alt="Nediyannia" />
+      <img className="img-fluid" src={Nediyannia} alt="Nediyannia" />
     </div>
   );
 }

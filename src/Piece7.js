@@ -57,7 +57,7 @@ export default function Piece7() {
           ти їх не впізнала; тому ти змушена блукати тут.
         </p>
 
-        <img src={bardo} alt="bardo" />
+        <img className="img-fluid" src={bardo} alt="bardo" />
       </div>
     </div>
   );

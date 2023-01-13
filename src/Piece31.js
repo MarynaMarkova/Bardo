@@ -83,7 +83,7 @@ export default function Piece31() {
         </div>
 
         <div className="FourLights">
-          <img src={SamsaraWheel} alt="SamsaraWheel" />
+          <img className="img-fluid" src={SamsaraWheel} alt="SamsaraWheel" />
         </div>
       </div>
     </div>

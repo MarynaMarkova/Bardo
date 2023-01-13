@@ -18,7 +18,7 @@ export default function Piece44() {
         <p>обвиває його шию правою рукою, </p>
         <p>а лівою підносить до його рота череп, повний крові.</p>
 
-        <img src={RatnaHeruka1} alt="RatnaHeruka1" />
+        <img className="img-fluid" src={RatnaHeruka1} alt="RatnaHeruka1" />
       </div>
     </div>
   );

@@ -25,7 +25,7 @@ export default function Piece54() {
             </p>
           </li>
         </ul>
-        <img src={Ankusha} alt="Ankusha" />
+        <img className="img-fluid" src={Ankusha} alt="Ankusha" />
         <ul>
           <li>
             <p>
@@ -34,7 +34,7 @@ export default function Piece54() {
             </p>
           </li>
         </ul>
-        <img src={Pasha} alt="Pasha" />
+        <img className="img-fluid" src={Pasha} alt="Pasha" />
         <ul>
           <li>
             <p>
@@ -43,7 +43,7 @@ export default function Piece54() {
             </p>
           </li>
         </ul>
-        <img src={Shrinkhala} alt="Shrinkhala" />
+        <img className="img-fluid" src={Shrinkhala} alt="Shrinkhala" />
         <ul>
           <li>
             <p>
@@ -53,7 +53,7 @@ export default function Piece54() {
           </li>
         </ul>
 
-        <img src={Ghanta} alt="Ghanta" />
+        <img className="img-fluid" src={Ghanta} alt="Ghanta" />
         <p>
           Ці чотири богині брам вийдуть із твого власного мозку й з’являться
           перед тобою.

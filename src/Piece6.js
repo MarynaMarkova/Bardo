@@ -13,7 +13,7 @@ export default function Piece6() {
           відволікає тебе. Зосередься на їдамові. Уяви його в видимих формах.
         </p>
 
-        <img src={WhiteTara} alt="White Tara" />
+        <img className="img-fluid" src={WhiteTara} alt="White Tara" />
       </div>
     </div>
   );

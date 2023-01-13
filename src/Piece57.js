@@ -26,7 +26,7 @@ export default function Piece57() {
             </p>
           </li>
         </ul>
-        <img src={Bhakshini} alt="Bhakshini" />
+        <img className="img-fluid" src={Bhakshini} alt="Bhakshini" />
         <ul>
           <li>
             <p>
@@ -35,7 +35,7 @@ export default function Piece57() {
             </p>
           </li>
         </ul>
-        <img src={Rati} alt="Rati" />
+        <img className="img-fluid" src={Rati} alt="Rati" />
         <ul>
           <li>
             <p>
@@ -44,7 +44,7 @@ export default function Piece57() {
             </p>
           </li>
         </ul>
-        <img src={Mahabala} alt="Mahabala" />
+        <img className="img-fluid" src={Mahabala} alt="Mahabala" />
         <ul>
           <li>
             <p>
@@ -53,7 +53,7 @@ export default function Piece57() {
             </p>
           </li>
         </ul>
-        <img src={Rakshasi2} alt="Rakshasi2" />
+        <img className="img-fluid" src={Rakshasi2} alt="Rakshasi2" />
         <ul>
           <li>
             <p>
@@ -62,7 +62,7 @@ export default function Piece57() {
             </p>
           </li>
         </ul>
-        <img src={Kama} alt="Kama" />
+        <img className="img-fluid" src={Kama} alt="Kama" />
         <ul>
           <li>
             <p>
@@ -71,7 +71,7 @@ export default function Piece57() {
             </p>
           </li>
         </ul>
-        <img src={Vasuraksha} alt="Vasuraksha" />
+        <img className="img-fluid" src={Vasuraksha} alt="Vasuraksha" />
         <p>Не лякайся їх.</p>
       </div>
     </div>

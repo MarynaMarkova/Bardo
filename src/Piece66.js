@@ -77,7 +77,7 @@ export default function Piece66() {
         бардо), що зветься «Велике Визволення в результаті почутого», про Вчення
         бардо, що звільнює, коли почуто й побачено.
       </div>
-      <img src={Bardo1} alt="Bardo1" />
+      <img className="img-fluid" src={Bardo1} alt="Bardo1" />
     </div>
   );
 }

@@ -22,7 +22,7 @@ export default function Piece14() {
           для очей.
         </p>
         <div className="Blue">
-          <img src={vajrochana} alt="vajrochana" />
+          <img className="img-fluid" src={vajrochana} alt="vajrochana" />
         </div>
       </div>
     </div>

@@ -32,7 +32,7 @@ export default function Piece70() {
 
       <p>отже пізнай це та пам’ятай настанови.</p>
 
-      <img src={Feelings} alt="Feelings" />
+      <img className="img-fluid" src={Feelings} alt="Feelings" />
     </div>
   );
 }

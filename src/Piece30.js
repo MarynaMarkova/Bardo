@@ -64,7 +64,7 @@ export default function Piece30() {
         </p>
 
         <div className="FourLights">
-          <img src={FiveBuddhas1} alt="FiveBuddhas1" />
+          <img className="img-fluid" src={FiveBuddhas1} alt="FiveBuddhas1" />
         </div>
       </div>
     </div>

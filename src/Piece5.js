@@ -19,7 +19,7 @@ export default function Piece5() {
           духа Будди, зазирнувши в себе.
         </p>
 
-        <img src={Amitabha} alt="Amitabha" />
+        <img className="img-fluid" src={Amitabha} alt="Amitabha" />
       </div>
     </div>
   );

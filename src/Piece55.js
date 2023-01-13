@@ -35,13 +35,13 @@ export default function Piece55() {
             </p>
           </li>
         </ul>
-        <img src={Rakshasi} alt="Rakshasi" />
+        <img className="img-fluid" src={Rakshasi} alt="Rakshasi" />
         <ul>
           <li>
             <p>Брагмі – помаранчова, з головою змії. Вона тримає лотос.</p>
           </li>
         </ul>
-        <img src={Bragmi} alt="Bragmi" />
+        <img className="img-fluid" src={Bragmi} alt="Bragmi" />
         <ul>
           <li>
             <p>
@@ -50,7 +50,7 @@ export default function Piece55() {
             </p>
           </li>
         </ul>
-        <img src={Mahadevi} alt="Mahadevi" />
+        <img className="img-fluid" src={Mahadevi} alt="Mahadevi" />
         <ul>
           <li>
             <p>
@@ -59,7 +59,7 @@ export default function Piece55() {
           </li>
         </ul>
 
-        <img src={Lobha} alt="Lobha" />
+        <img className="img-fluid" src={Lobha} alt="Lobha" />
         <ul>
           <li>
             <p>
@@ -69,7 +69,7 @@ export default function Piece55() {
           </li>
         </ul>
 
-        <img src={Kumari} alt="Kumari" />
+        <img className="img-fluid" src={Kumari} alt="Kumari" />
         <ul>
           <li>
             <p>
@@ -79,7 +79,7 @@ export default function Piece55() {
           </li>
         </ul>
 
-        <img src={Indrani} alt="Indrani" />
+        <img className="img-fluid" src={Indrani} alt="Indrani" />
         <p>Не лякайся їх.</p>
       </div>
     </div>

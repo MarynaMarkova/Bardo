@@ -19,7 +19,7 @@ export default function Piece13() {
           образи.
         </p>
 
-        <img src={mind} alt="mind" />
+        <img className="img-fluid" src={mind} alt="mind" />
       </div>
     </div>
   );

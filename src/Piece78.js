@@ -21,7 +21,7 @@ export default function Piece78() {
       </p>
       <p>Це дуже важливо.</p>
 
-      <img src={Mahamudra1} alt="Mahamudra1" />
+      <img className="img-fluid" src={Mahamudra1} alt="Mahamudra1" />
     </div>
   );
 }

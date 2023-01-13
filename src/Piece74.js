@@ -49,7 +49,11 @@ export default function Piece74() {
         страждань.
       </p>
 
-      <img src={Avalokiteshvara3} alt="Avalokiteshvara3" />
+      <img
+        className="img-fluid"
+        src={Avalokiteshvara3}
+        alt="Avalokiteshvara3"
+      />
     </div>
   );
 }

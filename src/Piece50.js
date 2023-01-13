@@ -18,7 +18,7 @@ export default function Piece50() {
         <p>правою рукою обвиває його шию, </p>
         <p>а лівою – підносить до його рота чашу з черепа, повну крові.</p>
 
-        <img src={KarmaHeruka1} alt="KarmaHeruka1" />
+        <img className="img-fluid" src={KarmaHeruka1} alt="KarmaHeruka1" />
       </div>
     </div>
   );

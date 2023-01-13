@@ -15,7 +15,7 @@ export default function Piece48() {
         <p>то відчуй любов до нього. </p>
         <p>Пізнання й звільнення прийдуть одночасно.</p>
 
-        <img src={PadmaHeruka2} alt="PadmaHeruka2" />
+        <img className="img-fluid" src={PadmaHeruka2} alt="PadmaHeruka2" />
       </div>
     </div>
   );

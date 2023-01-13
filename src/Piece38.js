@@ -31,7 +31,7 @@ export default function Piece38() {
         <p>Він регоче, викрикуючи: «а-ла-ла!» й «ха-ха!», </p>
         <p>видає голосні свистячі звуки: «шу-у!».</p>
 
-        <img src={BuddhaHeruka} alt="BuddhaHeruka" />
+        <img className="img-fluid" src={BuddhaHeruka} alt="BuddhaHeruka" />
       </div>
     </div>
   );

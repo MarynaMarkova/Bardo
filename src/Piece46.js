@@ -22,7 +22,7 @@ export default function Piece46() {
         <p>лівий – синій, </p>
         <p>а центральний – темно-червоного кольору.</p>
 
-        <img src={PadmaHeruka} alt="PadmaHeruka" />
+        <img className="img-fluid" src={PadmaHeruka} alt="PadmaHeruka" />
       </div>
     </div>
   );

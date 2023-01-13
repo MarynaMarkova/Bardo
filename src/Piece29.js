@@ -93,7 +93,7 @@ export default function Piece29() {
         <p>Пізнай їх, бо вони – твої їдами.</p>
 
         <div className="FourLights">
-          <img src={PeacefulBardo} alt="PeacefulBardo" />
+          <img className="img-fluid" src={PeacefulBardo} alt="PeacefulBardo" />
         </div>
       </div>
     </div>

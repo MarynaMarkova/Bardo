@@ -31,7 +31,7 @@ export default function Piece9() {
           відображення.
         </p>
 
-        <img src={mirrors} alt="Mirrors" />
+        <img className="img-fluid" src={mirrors} alt="Mirrors" />
         <div className="PhotoBy">
           Photo by{" "}
           <a href="https://unsplash.com/@thebarlemy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">

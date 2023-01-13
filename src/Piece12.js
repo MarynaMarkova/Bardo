@@ -19,7 +19,7 @@ export default function Piece12() {
           промені та блукатимеш у самсарі.
         </p>
 
-        <img src={nerves} alt="nerves" />
+        <img className="img-fluid" src={nerves} alt="nerves" />
         <div className="PhotoBy">
           Photo by{" "}
           <a href="https://unsplash.com/@mittaluday?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">

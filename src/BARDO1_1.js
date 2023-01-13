@@ -42,7 +42,7 @@ export default function FullBardo1_1() {
           повітрі, повітря в просторі, простору – в світлоносній порожнечі.
         </p>
 
-        <img src={fiveElements} alt="Five Elements" />
+        <img className="img-fluid" src={fiveElements} alt="Five Elements" />
       </div>
       <h3>2.</h3>
       <div>
@@ -63,7 +63,7 @@ export default function FullBardo1_1() {
           вчення про медитацію, яке ти пізнала раніше.
         </p>
 
-        <img src={mahamudra} alt="Maha Mudra Mandala" />
+        <img className="img-fluid" src={mahamudra} alt="Maha Mudra Mandala" />
       </div>
 
       <h3>3.</h3>
@@ -72,7 +72,7 @@ export default function FullBardo1_1() {
         <p>Зараз чисте світло абсолютної сутності сяє перед тобою.</p>
         <p>Пізнай його.</p>
 
-        <img src={light} alt="Clear Light" />
+        <img className="img-fluid" src={light} alt="Clear Light" />
       </div>
       <h2>День 2</h2>
       <h3>1.</h3>
@@ -94,7 +94,7 @@ export default function FullBardo1_1() {
           Будди.
         </p>
 
-        <img src={Adibuddha} alt="Adibuddha" />
+        <img className="img-fluid" src={Adibuddha} alt="Adibuddha" />
       </div>
       <h3>2.</h3>
       <div>
@@ -109,7 +109,7 @@ export default function FullBardo1_1() {
           духа Будди, зазирнувши в себе.
         </p>
 
-        <img src={Amitabha} alt="Amitabha" />
+        <img className="img-fluid" src={Amitabha} alt="Amitabha" />
       </div>
       <h3>3.</h3>
       <div>
@@ -118,7 +118,7 @@ export default function FullBardo1_1() {
           відволікає тебе. Зосередься на їдамові. Уяви його в видимих формах.
         </p>
 
-        <img src={WhiteTara} alt="White Tara" />
+        <img className="img-fluid" src={WhiteTara} alt="White Tara" />
       </div>
       <h2>День 3</h2>
       <h3>1.</h3>
@@ -172,7 +172,7 @@ export default function FullBardo1_1() {
           ти їх не впізнала; тому ти змушена блукати тут.
         </p>
 
-        <img src={bardo} alt="bardo" />
+        <img className="img-fluid" src={bardo} alt="bardo" />
       </div>
       <h3>2.</h3>
       <div>
@@ -191,7 +191,7 @@ export default function FullBardo1_1() {
 
         <p>Пам’ятай про Три Дорогоцінності: Будду, Сангґу й Дгарму.</p>
 
-        <img src={Three_Jewels} alt="Three Jewels" />
+        <img className="img-fluid" src={Three_Jewels} alt="Three Jewels" />
       </div>
       <h3>3.</h3>
       <div>
@@ -218,7 +218,7 @@ export default function FullBardo1_1() {
           відображення.
         </p>
 
-        <img src={mirrors} alt="Mirrors" />
+        <img className="img-fluid" src={mirrors} alt="Mirrors" />
         <div className="PhotoBy">
           Photo by{" "}
           <a href="https://unsplash.com/@thebarlemy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
@@ -243,7 +243,7 @@ export default function FullBardo1_1() {
         <p>Не бійся її та не впадай у відчай.</p>
         <p>Це природне сяйво твоєї сутнісної дійсності – так пізнай же її.</p>
 
-        <img src={division} alt="Division" />
+        <img className="img-fluid" src={division} alt="Division" />
       </div>
       <h3>2.</h3>
       <div>
@@ -262,7 +262,7 @@ export default function FullBardo1_1() {
         <p>Легко зрозуміти їх як твої ж прояви.</p>
         <p>Знай: це й є бардо.</p>
 
-        <img src={thunder} alt="thunder" />
+        <img className="img-fluid" src={thunder} alt="thunder" />
         <div className="PhotoBy">
           Photo by{" "}
           <a href="https://unsplash.com/@jeremythomasphoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
@@ -287,7 +287,7 @@ export default function FullBardo1_1() {
           промені та блукатимеш у самсарі.
         </p>
 
-        <img src={nerves} alt="nerves" />
+        <img className="img-fluid" src={nerves} alt="nerves" />
         <div className="PhotoBy">
           Photo by{" "}
           <a href="https://unsplash.com/@mittaluday?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
@@ -313,7 +313,7 @@ export default function FullBardo1_1() {
           образи.
         </p>
 
-        <img src={mind} alt="mind" />
+        <img className="img-fluid" src={mind} alt="mind" />
       </div>
       <h3>2.</h3>
       <div>
@@ -331,7 +331,7 @@ export default function FullBardo1_1() {
           для очей.
         </p>
         <div className="Blue">
-          <img src={vajrochana} alt="vajrochana" />
+          <img className="img-fluid" src={vajrochana} alt="vajrochana" />
         </div>
       </div>
       <h3>3.</h3>
@@ -366,7 +366,7 @@ export default function FullBardo1_1() {
         </div>
 
         <div className="Blue">
-          <img src={WhiteTara1} alt="WhiteTara1" />
+          <img className="img-fluid" src={WhiteTara1} alt="WhiteTara1" />
         </div>
       </div>
     </div>

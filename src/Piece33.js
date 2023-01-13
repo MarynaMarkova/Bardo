@@ -39,7 +39,7 @@ export default function Piece33() {
           віддав його забуттю.
         </p>
         <div className="FourLights">
-          <img src={Dakini} alt="Dakini" />
+          <img className="img-fluid" src={Dakini} alt="Dakini" />
         </div>
       </div>
     </div>

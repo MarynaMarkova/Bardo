@@ -42,7 +42,7 @@ export default function Piece53() {
             </p>
           </li>
         </ul>
-        <img src={Pishachi1} alt="Pishachi1" />
+        <img className="img-fluid" src={Pishachi1} alt="Pishachi1" />
         <ul>
           <li>
             <p>
@@ -79,7 +79,7 @@ export default function Piece53() {
           Пізнай все, що з’являється, як гру твого ж розуму, як твої же прояви.
         </p>
 
-        <img src={Pishachi2} alt="Pishachi2" />
+        <img className="img-fluid" src={Pishachi2} alt="Pishachi2" />
       </div>
     </div>
   );

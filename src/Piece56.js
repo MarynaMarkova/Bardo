@@ -23,7 +23,7 @@ export default function Piece56() {
             <p>Ваджра – жовта, з головою свині. Вона тримає бритву в руці.</p>
           </li>
         </ul>
-        <img src={Vajra} alt="Vajra" />
+        <img className="img-fluid" src={Vajra} alt="Vajra" />
         <ul>
           <li>
             <p>
@@ -32,7 +32,7 @@ export default function Piece56() {
             </p>
           </li>
         </ul>
-        <img src={Shanti} alt="Shanti" />
+        <img className="img-fluid" src={Shanti} alt="Shanti" />
         <ul>
           <li>
             <p>
@@ -41,7 +41,7 @@ export default function Piece56() {
             </p>
           </li>
         </ul>
-        <img src={Amrita} alt="Amrita" />
+        <img className="img-fluid" src={Amrita} alt="Amrita" />
         <ul>
           <li>
             <p>
@@ -49,7 +49,7 @@ export default function Piece56() {
             </p>
           </li>
         </ul>
-        <img src={Kandra} alt="Kandra" />
+        <img className="img-fluid" src={Kandra} alt="Kandra" />
         <ul>
           <li>
             <p>
@@ -58,7 +58,7 @@ export default function Piece56() {
             </p>
           </li>
         </ul>
-        <img src={Danda} alt="Danda" />
+        <img className="img-fluid" src={Danda} alt="Danda" />
         <ul>
           <li>
             <p>
@@ -67,7 +67,7 @@ export default function Piece56() {
             </p>
           </li>
         </ul>
-        <img src={Rakshasi1} alt="Rakshasi1" />
+        <img className="img-fluid" src={Rakshasi1} alt="Rakshasi1" />
         <p>Не лякайся їх.</p>
       </div>
     </div>

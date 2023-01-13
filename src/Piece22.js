@@ -32,7 +32,7 @@ export default function Piece22() {
         </p>
         <p>Не бійся її.</p>
         <div className="Red">
-          <img src={Amitabha} alt="Amitabha" />
+          <img className="img-fluid" src={Amitabha} alt="Amitabha" />
         </div>
       </div>
     </div>

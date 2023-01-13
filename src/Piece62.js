@@ -22,7 +22,7 @@ export default function Piece62() {
         променями й образами, й ти станеш Буддою.
       </p>
 
-      <img src={WratfulDieties} alt="WratfulDieties" />
+      <img className="img-fluid" src={WratfulDieties} alt="WratfulDieties" />
     </div>
   );
 }

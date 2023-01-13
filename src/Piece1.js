@@ -28,7 +28,7 @@ export default function Piece1() {
           повітрі, повітря в просторі, простору – в світлоносній порожнечі.
         </p>
 
-        <img src={fiveElements} alt="Five Elements" />
+        <img className="img-fluid" src={fiveElements} alt="Five Elements" />
       </div>
     </div>
   );

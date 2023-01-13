@@ -14,7 +14,7 @@ export default function Piece50() {
         <p>Воістину, він – Благословенний Амоґгасідгі зі своєю дружиною, </p>
         <p>то відчуй відданість і любов.</p>
 
-        <img src={KarmaHeruka2} alt="KarmaHeruka2" />
+        <img className="img-fluid" src={KarmaHeruka2} alt="KarmaHeruka2" />
       </div>
     </div>
   );

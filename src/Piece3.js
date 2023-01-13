@@ -12,7 +12,7 @@ export default function Piece3() {
         <p>Зараз чисте світло абсолютної сутності сяє перед тобою.</p>
         <p>Пізнай його.</p>
 
-        <img src={light} alt="Clear Light" />
+        <img className="img-fluid" src={light} alt="Clear Light" />
       </div>
     </div>
   );

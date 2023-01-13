@@ -35,7 +35,7 @@ export default function BARDO3_1() {
         страху за ці дні; але коли ти прийшла до тями, твоя свідомість
         прояснилась і виникло нове тіло, подібне до того, що було в тебе раніше.
       </p>
-      <img src={NewBody} alt="NewBody" />
+      <img className="img-fluid" src={NewBody} alt="NewBody" />
       <h3>2.</h3>
       <p> У тантрі сказано: </p>
       <div className="Prayer">
@@ -75,7 +75,7 @@ export default function BARDO3_1() {
         Якщо ти ними захопишся або забажаєш їх, ти блукатимеш у шести світах,
         відчуваючи страждання.
       </p>
-      <img src={SamsaraWheel1} alt="SamsaraWheel1" />
+      <img className="img-fluid" src={SamsaraWheel1} alt="SamsaraWheel1" />
       <h3>3.</h3>
       <p>
         Хоча до вчорашнього дня тобі з’являлися прояви бардо сутнісної дійсності
@@ -94,7 +94,11 @@ export default function BARDO3_1() {
       </p>
       <p>Це дуже важливо. </p>
       <p>Повторюю знову й знову – не відволікайся!</p>
-      <img src={Avalokiteshvara1} alt="Avalokiteshvara1" />
+      <img
+        className="img-fluid"
+        src={Avalokiteshvara1}
+        alt="Avalokiteshvara1"
+      />
       <h2>День 24</h2>
       <h3>1.</h3>
       <p>О дитино шляхетного роду, зосереджено слухай. </p>
@@ -106,7 +110,7 @@ export default function BARDO3_1() {
       </p>
       <p>Це ознака того, що ти померла й блукаєш у стані бардо, –</p>
       <p>отже пізнай це та пам’ятай настанови.</p>
-      <img src={Feelings} alt="Feelings" />
+      <img className="img-fluid" src={Feelings} alt="Feelings" />
       <h3>2.</h3>
       <p>
         О дитино шляхетного роду, слово «безперешкодно» означає, що, оскільки ти
@@ -120,7 +124,11 @@ export default function BARDO3_1() {
         (сіпа бардо), тому пам’ятай настанови свого вчителя й молись Володарю
         Великого Співчуття.
       </p>
-      <img src={Avalokiteshvara2} alt="Avalokiteshvara2" />
+      <img
+        className="img-fluid"
+        src={Avalokiteshvara2}
+        alt="Avalokiteshvara2"
+      />
       <h3>3.</h3>
       <p>
         О дитино шляхетного роду, слова «володіє дивовижною силою, що обумовлена
@@ -138,7 +146,7 @@ export default function BARDO3_1() {
         що подумаєш, і немає вчинку, який ти не мігла би здійснити –{" "}
       </p>
       <p>пізнай же це та молись своєму вчителеві.</p>
-      <img src={Power} alt="Power" />
+      <img className="img-fluid" src={Power} alt="Power" />
       <h2>День 25</h2>
       <h3>1.</h3>
       <p>
@@ -159,7 +167,7 @@ export default function BARDO3_1() {
         баченні – бачать; якщо ж ні, або якщо їх медитацію порушено – тоді не
         бачать.
       </p>
-      <img src={Monks} alt="Monks" />
+      <img className="img-fluid" src={Monks} alt="Monks" />
       <h3>2.</h3>
 
       <p>
@@ -185,7 +193,11 @@ export default function BARDO3_1() {
         Молись Володареві Великого Співчуття, та не буде ані страхів, ані
         страждань.
       </p>
-      <img src={Avalokiteshvara3} alt="Avalokiteshvara3" />
+      <img
+        className="img-fluid"
+        src={Avalokiteshvara3}
+        alt="Avalokiteshvara3"
+      />
       <h3>3.</h3>
       <p>
         О дитино шляхетного роду, твій розум, що втратив опору, гнаний вітром
@@ -210,7 +222,7 @@ export default function BARDO3_1() {
         зазвичай триває до двадцяти одного дня, але це не зовсім точно, тому що
         залежить від карми.
       </p>
-      <img src={Serpanok} alt="Serpanok" />
+      <img className="img-fluid" src={Serpanok} alt="Serpanok" />
 
       <h2>День 26</h2>
       <h3>1.</h3>
@@ -268,7 +280,7 @@ export default function BARDO3_1() {
 
       <p>Палко відтворюй цю молитву; не забувай.</p>
 
-      <img src={Poisons} alt="Poisons" />
+      <img className="img-fluid" src={Poisons} alt="Poisons" />
 
       <h3>2.</h3>
 
@@ -283,7 +295,7 @@ export default function BARDO3_1() {
         з’являться їм.
       </p>
 
-      <img src={joy} alt="joy" />
+      <img className="img-fluid" src={joy} alt="joy" />
       <h3>3.</h3>
 
       <p>
@@ -299,7 +311,7 @@ export default function BARDO3_1() {
       </p>
       <p>Це дуже важливо.</p>
 
-      <img src={Mahamudra1} alt="Mahamudra1" />
+      <img className="img-fluid" src={Mahamudra1} alt="Mahamudra1" />
     </div>
   );
 }

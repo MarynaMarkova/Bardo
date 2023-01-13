@@ -37,7 +37,7 @@ export default function Piece26() {
         </p>
 
         <div className="Green">
-          <img src={Amoghasiddhi1} alt="Amoghasiddhi1" />
+          <img className="img-fluid" src={Amoghasiddhi1} alt="Amoghasiddhi1" />
         </div>
       </div>
     </div>

@@ -48,7 +48,7 @@ export default function Piece68() {
         відчуваючи страждання.
       </p>
 
-      <img src={SamsaraWheel1} alt="SamsaraWheel1" />
+      <img className="img-fluid" src={SamsaraWheel1} alt="SamsaraWheel1" />
     </div>
   );
 }

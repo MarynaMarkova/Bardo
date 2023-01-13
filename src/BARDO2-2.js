@@ -73,7 +73,7 @@ export default function FullBardo2_2() {
             </p>
           </li>
         </ul>
-        <img src={Gauri1} alt="Gauri1" />
+        <img className="img-fluid" src={Gauri1} alt="Gauri1" />
         <ul>
           <li>
             <p>
@@ -108,7 +108,7 @@ export default function FullBardo2_2() {
         <p> що п’ють кров, вийдуть із твого мозку й з’являться перед тобою.</p>
         <p>Не лякайся їх.</p>
 
-        <img src={Gauri2} alt="Gauri2" />
+        <img className="img-fluid" src={Gauri2} alt="Gauri2" />
       </div>
       <h3>2.</h3>
       <div>
@@ -145,7 +145,7 @@ export default function FullBardo2_2() {
             </p>
           </li>
         </ul>
-        <img src={Pishachi1} alt="Pishachi1" />
+        <img className="img-fluid" src={Pishachi1} alt="Pishachi1" />
         <ul>
           <li>
             <p>
@@ -182,7 +182,7 @@ export default function FullBardo2_2() {
           Пізнай все, що з’являється, як гру твого ж розуму, як твої же прояви.
         </p>
 
-        <img src={Pishachi2} alt="Pishach2" />
+        <img className="img-fluid" src={Pishachi2} alt="Pishach2" />
       </div>
       <h3>3.</h3>
       <div>
@@ -200,7 +200,7 @@ export default function FullBardo2_2() {
             </p>
           </li>
         </ul>
-        <img src={Ankusha} alt="Ankusha" />
+        <img className="img-fluid" src={Ankusha} alt="Ankusha" />
         <ul>
           <li>
             <p>
@@ -209,7 +209,7 @@ export default function FullBardo2_2() {
             </p>
           </li>
         </ul>
-        <img src={Pasha} alt="Pasha" />
+        <img className="img-fluid" src={Pasha} alt="Pasha" />
         <ul>
           <li>
             <p>
@@ -218,7 +218,7 @@ export default function FullBardo2_2() {
             </p>
           </li>
         </ul>
-        <img src={Shrinkhala} alt="Shrinkhala" />
+        <img className="img-fluid" src={Shrinkhala} alt="Shrinkhala" />
         <ul>
           <li>
             <p>
@@ -228,7 +228,7 @@ export default function FullBardo2_2() {
           </li>
         </ul>
 
-        <img src={Ghanta} alt="Ghanta" />
+        <img className="img-fluid" src={Ghanta} alt="Ghanta" />
         <p>
           Ці чотири богині брам вийдуть із твого власного мозку й з’являться
           перед тобою.
@@ -260,13 +260,13 @@ export default function FullBardo2_2() {
             </p>
           </li>
         </ul>
-        <img src={Rakshasi} alt="Rakshasi" />
+        <img className="img-fluid" src={Rakshasi} alt="Rakshasi" />
         <ul>
           <li>
             <p>Брагмі – помаранчова, з головою змії. Вона тримає лотос.</p>
           </li>
         </ul>
-        <img src={Bragmi} alt="Bragmi" />
+        <img className="img-fluid" src={Bragmi} alt="Bragmi" />
         <ul>
           <li>
             <p>
@@ -275,7 +275,7 @@ export default function FullBardo2_2() {
             </p>
           </li>
         </ul>
-        <img src={Mahadevi} alt="Mahadevi" />
+        <img className="img-fluid" src={Mahadevi} alt="Mahadevi" />
         <ul>
           <li>
             <p>
@@ -284,7 +284,7 @@ export default function FullBardo2_2() {
           </li>
         </ul>
 
-        <img src={Lobha} alt="Lobha" />
+        <img className="img-fluid" src={Lobha} alt="Lobha" />
         <ul>
           <li>
             <p>
@@ -294,7 +294,7 @@ export default function FullBardo2_2() {
           </li>
         </ul>
 
-        <img src={Kumari} alt="Kumari" />
+        <img className="img-fluid" src={Kumari} alt="Kumari" />
         <ul>
           <li>
             <p>
@@ -304,7 +304,7 @@ export default function FullBardo2_2() {
           </li>
         </ul>
 
-        <img src={Indrani} alt="Indrani" />
+        <img className="img-fluid" src={Indrani} alt="Indrani" />
         <p>Не лякайся їх.</p>
       </div>
       <h3>2.</h3>
@@ -319,7 +319,7 @@ export default function FullBardo2_2() {
             <p>Ваджра – жовта, з головою свині. Вона тримає бритву в руці.</p>
           </li>
         </ul>
-        <img src={Vajra} alt="Vajra" />
+        <img className="img-fluid" src={Vajra} alt="Vajra" />
         <ul>
           <li>
             <p>
@@ -328,7 +328,7 @@ export default function FullBardo2_2() {
             </p>
           </li>
         </ul>
-        <img src={Shanti} alt="Shanti" />
+        <img className="img-fluid" src={Shanti} alt="Shanti" />
         <ul>
           <li>
             <p>
@@ -337,7 +337,7 @@ export default function FullBardo2_2() {
             </p>
           </li>
         </ul>
-        <img src={Amrita} alt="Amrita" />
+        <img className="img-fluid" src={Amrita} alt="Amrita" />
         <ul>
           <li>
             <p>
@@ -345,7 +345,7 @@ export default function FullBardo2_2() {
             </p>
           </li>
         </ul>
-        <img src={Kandra} alt="Kandra" />
+        <img className="img-fluid" src={Kandra} alt="Kandra" />
         <ul>
           <li>
             <p>
@@ -354,7 +354,7 @@ export default function FullBardo2_2() {
             </p>
           </li>
         </ul>
-        <img src={Danda} alt="Danda" />
+        <img className="img-fluid" src={Danda} alt="Danda" />
         <ul>
           <li>
             <p>
@@ -363,7 +363,7 @@ export default function FullBardo2_2() {
             </p>
           </li>
         </ul>
-        <img src={Rakshasi1} alt="Rakshasi1" />
+        <img className="img-fluid" src={Rakshasi1} alt="Rakshasi1" />
         <p>Не лякайся їх.</p>
       </div>
       <h3>3.</h3>
@@ -381,7 +381,7 @@ export default function FullBardo2_2() {
             </p>
           </li>
         </ul>
-        <img src={Bhakshini} alt="Bhakshini" />
+        <img className="img-fluid" src={Bhakshini} alt="Bhakshini" />
         <ul>
           <li>
             <p>
@@ -390,7 +390,7 @@ export default function FullBardo2_2() {
             </p>
           </li>
         </ul>
-        <img src={Rati} alt="Rati" />
+        <img className="img-fluid" src={Rati} alt="Rati" />
         <ul>
           <li>
             <p>
@@ -399,7 +399,7 @@ export default function FullBardo2_2() {
             </p>
           </li>
         </ul>
-        <img src={Mahabala} alt="Mahabala" />
+        <img className="img-fluid" src={Mahabala} alt="Mahabala" />
         <ul>
           <li>
             <p>
@@ -408,7 +408,7 @@ export default function FullBardo2_2() {
             </p>
           </li>
         </ul>
-        <img src={Rakshasi2} alt="Rakshasi2" />
+        <img className="img-fluid" src={Rakshasi2} alt="Rakshasi2" />
         <ul>
           <li>
             <p>
@@ -417,7 +417,7 @@ export default function FullBardo2_2() {
             </p>
           </li>
         </ul>
-        <img src={Kama} alt="Kama" />
+        <img className="img-fluid" src={Kama} alt="Kama" />
         <ul>
           <li>
             <p>
@@ -426,7 +426,7 @@ export default function FullBardo2_2() {
             </p>
           </li>
         </ul>
-        <img src={Vasuraksha} alt="Vasuraksha" />
+        <img className="img-fluid" src={Vasuraksha} alt="Vasuraksha" />
         <p>Не лякайся їх.</p>
       </div>
       <h2>День 20</h2>
@@ -445,7 +445,7 @@ export default function FullBardo2_2() {
             </p>
           </li>
         </ul>
-        <img src={Vajudevi} alt="Vajudevi" />
+        <img className="img-fluid" src={Vajudevi} alt="Vajudevi" />
         <ul>
           <li>
             <p>
@@ -454,7 +454,7 @@ export default function FullBardo2_2() {
             </p>
           </li>
         </ul>
-        <img src={Nari} alt="Nari" />
+        <img className="img-fluid" src={Nari} alt="Nari" />
         <ul>
           <li>
             <p>
@@ -463,7 +463,7 @@ export default function FullBardo2_2() {
             </p>
           </li>
         </ul>
-        <img src={Varagi} alt="Varagi" />
+        <img className="img-fluid" src={Varagi} alt="Varagi" />
         <ul>
           <li>
             <p>
@@ -471,7 +471,7 @@ export default function FullBardo2_2() {
             </p>
           </li>
         </ul>
-        <img src={Vajra1} alt="Vajra1" />
+        <img className="img-fluid" src={Vajra1} alt="Vajra1" />
         <ul>
           <li>
             <p>
@@ -480,7 +480,7 @@ export default function FullBardo2_2() {
             </p>
           </li>
         </ul>
-        <img src={Mahahastini} alt="Mahahastini" />
+        <img className="img-fluid" src={Mahahastini} alt="Mahahastini" />
 
         <ul>
           <li>
@@ -490,7 +490,7 @@ export default function FullBardo2_2() {
             </p>
           </li>
         </ul>
-        <img src={Varunadevi} alt="Varunadevi" />
+        <img className="img-fluid" src={Varunadevi} alt="Varunadevi" />
         <p>Не лякайся їх.</p>
       </div>
       <h3>2.</h3>
@@ -508,7 +508,7 @@ export default function FullBardo2_2() {
             </p>
           </li>
         </ul>
-        <img src={Vajra2} alt="Vajra2" />
+        <img className="img-fluid" src={Vajra2} alt="Vajra2" />
         <ul>
           <li>
             <p>
@@ -517,7 +517,7 @@ export default function FullBardo2_2() {
             </p>
           </li>
         </ul>
-        <img src={Vajra3} alt="Vajra3" />
+        <img className="img-fluid" src={Vajra3} alt="Vajra3" />
         <ul>
           <li>
             <p>
@@ -526,7 +526,7 @@ export default function FullBardo2_2() {
             </p>
           </li>
         </ul>
-        <img src={Vajra4} alt="Vajra4" />
+        <img className="img-fluid" src={Vajra4} alt="Vajra4" />
         <ul>
           <li>
             <p>
@@ -535,7 +535,7 @@ export default function FullBardo2_2() {
             </p>
           </li>
         </ul>
-        <img src={Vajra5} alt="Vajra5" />
+        <img className="img-fluid" src={Vajra5} alt="Vajra5" />
 
         <p>
           Ці чотири йогині брам вийдуть із твого мозку й з’являться перед тобою.
@@ -560,7 +560,11 @@ export default function FullBardo2_2() {
         <p>виникає з твого ж сяючого розуму – </p>
         <p>ти негайно станеш Буддою,</p>
         <p>невіддільним від божеств, які п’ють кров.</p>
-        <img src={WratfulDieties2} alt="WratfulDieties2" />
+        <img
+          className="img-fluid"
+          src={WratfulDieties2}
+          alt="WratfulDieties2"
+        />
       </div>
     </div>
   );

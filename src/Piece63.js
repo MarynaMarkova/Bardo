@@ -26,7 +26,7 @@ export default function Piece63() {
 
       <p>Пам’ятай!</p>
 
-      <img src={MindLight} alt="MindLight" />
+      <img className="img-fluid" src={MindLight} alt="MindLight" />
     </div>
   );
 }

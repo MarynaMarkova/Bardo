@@ -16,7 +16,7 @@ export default function Piece37() {
         </p>
         <p>Тепер, наступного дня, з’являться гнівні божества, що п’ють кров.</p>
 
-        <img src={MandalaBardo} alt="MandalaBardo" />
+        <img className="img-fluid" src={MandalaBardo} alt="MandalaBardo" />
       </div>
     </div>
   );

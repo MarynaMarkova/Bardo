@@ -15,7 +15,7 @@ export default function Piece42() {
         <p>тому вияви пошану. </p>
         <p>Пізнання й звільнення прийдуть одночасно.</p>
 
-        <img src={VajraHeruka2} alt="VajraHeruka2" />
+        <img className="img-fluid" src={VajraHeruka2} alt="VajraHeruka2" />
       </div>
     </div>
   );

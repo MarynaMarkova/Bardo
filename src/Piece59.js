@@ -24,7 +24,7 @@ export default function Piece58() {
             </p>
           </li>
         </ul>
-        <img src={Vajra2} alt="Vajra2" />
+        <img className="img-fluid" src={Vajra2} alt="Vajra2" />
         <ul>
           <li>
             <p>
@@ -33,7 +33,7 @@ export default function Piece58() {
             </p>
           </li>
         </ul>
-        <img src={Vajra3} alt="Vajra3" />
+        <img className="img-fluid" src={Vajra3} alt="Vajra3" />
         <ul>
           <li>
             <p>
@@ -42,7 +42,7 @@ export default function Piece58() {
             </p>
           </li>
         </ul>
-        <img src={Vajra4} alt="Vajra4" />
+        <img className="img-fluid" src={Vajra4} alt="Vajra4" />
         <ul>
           <li>
             <p>
@@ -51,7 +51,7 @@ export default function Piece58() {
             </p>
           </li>
         </ul>
-        <img src={Vajra5} alt="Vajra5" />
+        <img className="img-fluid" src={Vajra5} alt="Vajra5" />
 
         <p>
           Ці чотири йогині брам вийдуть із твого мозку й з’являться перед тобою.

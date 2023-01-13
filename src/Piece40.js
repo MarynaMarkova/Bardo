@@ -22,7 +22,7 @@ export default function Piece40() {
         <p>лівий — червоний, </p>
         <p>а центральний — синього кольору.</p>
 
-        <img src={VajraHeruka} alt="VajraHeruka" />
+        <img className="img-fluid" src={VajraHeruka} alt="VajraHeruka" />
       </div>
     </div>
   );

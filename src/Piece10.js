@@ -18,7 +18,7 @@ export default function Piece10() {
         <p>Не бійся її та не впадай у відчай.</p>
         <p>Це природне сяйво твоєї сутнісної дійсності – так пізнай же її.</p>
 
-        <img src={division} alt="Division" />
+        <img className="img-fluid" src={division} alt="Division" />
       </div>
     </div>
   );
