@@ -1,5 +1,5 @@
 import React from "react";
-import Hayagriva from "./img/Hayagriva.jpg";
+import Vajrapani from "./img/Vajrapani.jpg";
 
 export default function Piece126() {
   return (
@@ -21,7 +21,7 @@ export default function Piece126() {
       </p>
       <p>Це істинна глибока таємниця настанови – зрозумій же її.</p>
 
-      <img className="img-fluid" src={Hayagriva} alt="Hayagriva" />
+      <img className="img-fluid" src={Vajrapani} alt="Vajrapani" />
     </div>
   );
 }
