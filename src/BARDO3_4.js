@@ -2,6 +2,9 @@ import React from "react";
 import Illusion from "./img/illusion.png";
 import WaterDrop from "./img/WaterDrop.jpg";
 import Water from "./img/Water.png";
+import ParadiseGarden from "./img/ParadiseGarden.jpg";
+import FairyLand from "./img/FairyLand.jpg";
+import House from "./img/House.jpg";
 
 export default function BARDO3_4() {
   return (
@@ -80,6 +83,50 @@ export default function BARDO3_4() {
       </p>
 
       <img className="img-fluid" src={Water} alt="Water" />
+
+      <h2>День 38</h2>
+      <h3>1.</h3>
+
+      <p>Слухай, о померла дитино шляхетного роду. </p>
+      <p>
+        Хоча досі тобі багато разів були дані вказівки, ти їх не зрозуміла, тому
+        тепер, коли брами лона не зачинились, настав час обрати тіло.{" "}
+      </p>
+      <p>
+        Існує не одна, а багато істинних і глибоких порад, як обрати тобі брами
+        лона – осягай же та не відволікайся. Зосереджено слухай і розумій.{" "}
+      </p>
+      <p>
+        О дитино шляхетного роду, зараз з’являються знаки й характерні риси
+        континенту, де доведеться тобі народитися – пізнай же їх.{" "}
+      </p>
+      <p>Розглянь, де випало тобі народитись і обери континент.</p>
+
+      <img className="img-fluid" src={ParadiseGarden} alt="ParadiseGarden" />
+
+      <h3>2.</h3>
+
+      <p>
+        Якщо тобі доведеться народитися на східному континенті, що звуть
+        «Благородний», ти побачиш озеро, де плавають лебеді й лебедині.{" "}
+      </p>
+      <p>Міркуй про протидію та не кидайся туди. </p>
+      <p>
+        Хоча це місце сповнене щастя, Вчення Будди не процвітає там, тому не
+        вступай туди.
+      </p>
+
+      <img className="img-fluid" src={FairyLand} alt="FairyLand" />
+
+      <h3>3.</h3>
+
+      <p>
+        Якщо тобі доведеться народитися на південному континенті, «Острові
+        рожевих яблунь», ти побачиш розкішні, прекрасні оселі.
+      </p>
+      <p>Вступи туди, якщо зможеш.</p>
+
+      <img className="img-fluid" src={House} alt="House" />
     </div>
   );
 }
