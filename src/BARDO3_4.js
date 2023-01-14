@@ -23,6 +23,9 @@ import Hayagriva from "./img/Hayagriva.jpg";
 import Sukhavati from "./img/Sukhavati.jpg";
 import LotusPalace from "./img/LotusPalace.jpg";
 import Maitreya from "./img/Maitreya.jpg";
+import BuddhaRealm from "./img/BuddhaRealm.jpg";
+import GoldenBuddha from "./img/GoldenBuddha.jpg";
+import Siddhi from "./img/Siddhi.jpg";
 
 export default function BARDO3_4() {
   return (
@@ -384,6 +387,41 @@ export default function BARDO3_4() {
       </p>
 
       <img className="img-fluid" src={Maitreya} alt="Maitreya" />
+      <h2>День 45</h2>
+      <h3>1.</h3>
+      <p>
+        В протилежному випадку, якщо ти не змогла податись до царства, до якого
+        прагнеш, та бажаєш увійти до лона, або ж уважаєш, що маєш увійти до
+        нього, є настанова про вибір нечистих самсаричних брам лона – отже,
+        слухай.
+      </p>
+      <p>
+        Як і раніше, відчуй своїм надчуттєвим сприйняттям континент, котрий ти
+        збираєшся обрати, й вступи в те місце, де процвітає Вчення Будди.
+      </p>
+
+      <img className="img-fluid" src={BuddhaRealm} alt="BuddhaRealm" />
+      <h3>2.</h3>
+      <p>
+        Якщо тобі випаде мимоволі народитись у бридкій купі гною, ця смердюча
+        маса здасться тобі запашною, ти відчуєш потяг і будеш народжена там;
+        тому, щоби не виникало, не довіряй цьому, поклади кінець ознакам бажання
+        й ненависті та обери брами лона.
+      </p>
+
+      <img className="img-fluid" src={GoldenBuddha} alt="GoldenBuddha" />
+      <h3>3.</h3>
+      <p>Знову ж таки, дуже важливо зосереджено думати: </p>
+      <div className="Prayer">
+        «Я буду народжена як володарка імперії для блага всіх живих істот, або
+        як брахманка, подібна до дерева «сала», або як дитина чарівника-сідгі,
+        або в родині чистих послідовників Учення Будди, або в родині, де батько
+        й матір вірують; утілюючись до тіла, яке наділене чеснотами, котрі
+        можуть послужити на благо всіх живих істот, я зроблю добро».{" "}
+      </div>
+      <p>Треба входити до лона, зосередившись на цій думці.</p>
+
+      <img className="img-fluid" src={Siddhi} alt="Siddhi" />
     </div>
   );
 }
