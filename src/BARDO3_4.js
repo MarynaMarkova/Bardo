@@ -26,6 +26,9 @@ import Maitreya from "./img/Maitreya.jpg";
 import BuddhaRealm from "./img/BuddhaRealm.jpg";
 import GoldenBuddha from "./img/GoldenBuddha.jpg";
 import Siddhi from "./img/Siddhi.jpg";
+import Chenrezig from "./img/Chenrezig.png";
+import Dao from "./img/Dao.jpg";
+import Buddha from "./img/Buddha.jpg";
 
 export default function BARDO3_4() {
   return (
@@ -422,6 +425,33 @@ export default function BARDO3_4() {
       <p>Треба входити до лона, зосередившись на цій думці.</p>
 
       <img className="img-fluid" src={Siddhi} alt="Siddhi" />
+      <h3>1.</h3>
+      <p>
+        Цієї миті благослови лоно, до якого ти входиш, як палац богів; звернись
+        із молитвою до Будд і бодгісатв десяти напрямків і до їдамів, перш за
+        все до Володаря Великого Співчуття, та ввійди до лона.
+      </p>
+
+      <img className="img-fluid" src={Chenrezig} alt="Chenrezig" />
+      <h3>2.</h3>
+      <p>
+        Обираючи брами лона під впливом карми можна припуститись помилки,
+        прийнявши добрі брами лона за погані або погані за добрі, тому зараз
+        дуже важлива ще одна думка настанови; роби ж так: навіть якщо брами лона
+        здаються добрими, не довіряй цьому, й якщо вони здаються поганими, не
+        відчувай неприязні.
+      </p>
+
+      <img className="img-fluid" src={Dao} alt="Dao" />
+
+      <h3>3.</h3>
+      <p>
+        Справжня, глибока, істинна таємниця полягає в тому, щоби вступити до
+        вищого стану рівноваги, де немає ані гарного, ані поганого, ані
+        прийняття, ані заперечення, ані пристрасті, ані злоби.
+      </p>
+
+      <img className="img-fluid" src={Buddha} alt="Buddha" />
     </div>
   );
 }
