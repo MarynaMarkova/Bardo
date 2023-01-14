@@ -11,6 +11,9 @@ import GemTemple from "./img/GemTemple.jpg";
 import AmusementPark from "./img/AmusementPark.jpeg";
 import Shalashnik from "./img/Shalashnik.jpg";
 import Burshtyn from "./img/Burshtyn.jpg";
+import Road from "./img/Road.jpg";
+import Gates from "./img/Gates.png";
+import Mesnyky from "./img/Mesnyky.jpg";
 
 export default function BARDO3_4() {
   return (
@@ -200,6 +203,43 @@ export default function BARDO3_4() {
       </p>
 
       <img className="img-fluid" src={Burshtyn} alt="Burshtyn" />
+      <h2>День 41</h2>
+      <h3>1.</h3>
+
+      <p>
+        Якщо тобі доведеться народитися мешканцем пекла, ти почуєш пісні, що
+        співають істоти зі злою кармою, або ж ти будеш вимушена безпорадно
+        вступити туди, або ж ти відчуєш, що потрапила до темної країни з чорними
+        й червоними будинками, чорними ямами й чорними дорогами.
+      </p>
+      <p>
+        Якщо ти кинешся туди, ти потрапиш до пекла й будеш нестерпно страждати
+        від спеки й холоду, та не буде видно виходу. Тому не прямуй туди, не
+        прямуй зовсім та будь уважною.
+      </p>
+
+      <img className="img-fluid" src={Road} alt="Road" />
+      <h2>День 41</h2>
+      <h3>2.</h3>
+
+      <p>Сказано: </p>
+      <p> «Зачини брами лона й міркуй про протидію». </p>
+      <p>Це потрібно зараз.</p>
+
+      <img className="img-fluid" src={Gates} alt="Gates" />
+      <h3>3.</h3>
+
+      <p>
+        О дитино шляхетного роду, навіть якщо ти не хочеш іти – ти не маєш
+        власної сили й вимушена безпорадно йти.{" "}
+      </p>
+      <p>
+        Ззаду тебе переслідують кармічні месники й спереду тягнуть месники та
+        вбивці; навколо тебе закружляють пітьма, урагани, люті шторми, гуркіт,
+        сніг і дощ, шалений град і хуртовина, й ти побіжиш від них.
+      </p>
+
+      <img className="img-fluid" src={Mesnyky} alt="Mesnyky" />
     </div>
   );
 }
