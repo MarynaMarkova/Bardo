@@ -29,6 +29,9 @@ import Siddhi from "./img/Siddhi.jpg";
 import Chenrezig from "./img/Chenrezig.png";
 import Dao from "./img/Dao.jpg";
 import Buddha from "./img/Buddha.jpg";
+import ThreeJewels1 from "./img/ThreeJewels1.jpg";
+import Chenrezig1 from "./img/Chenrezig1.jpg";
+import Padmasambhava1 from "./img/Padmasambhava1.jpg";
 
 export default function BARDO3_4() {
   return (
@@ -452,6 +455,47 @@ export default function BARDO3_4() {
       </p>
 
       <img className="img-fluid" src={Buddha} alt="Buddha" />
+      <h2>День 47</h2>
+      <h3>1.</h3>
+      <p>
+        О дитино шляхетного роду, якщо ти не знаєш, як обрати брами лона й не в
+        змозі звільнитись від пристрасті й злості, то які би з описаних почуттів
+        не виникали, призивай Три Дорогоцінності та наздобувай у них прихисток.
+      </p>
+
+      <img className="img-fluid" src={ThreeJewels1} alt="ThreeJewels1" />
+
+      <h3>2.</h3>
+      <p>Молись Володареві Великого Співчуття.</p>
+      <p>Продовжуй шлях із високо піднятою головою. </p>
+      <p>
+        Відкинь прив’язаність і журбу за родичами й друзями, синами й доньками,
+        яких ти залишила; вони не можуть допомогти тобі.
+      </p>
+
+      <img className="img-fluid" src={Chenrezig1} alt="Chenrezig1" />
+
+      <h3>3.</h3>
+      <br />
+      <p>
+        Тепер вступи до синього світла світу людей або до білого світла світу
+        богів; вступи до палаців із самоцвітів або до гаїв блаженства.{" "}
+      </p>
+      <br />
+      <hr />
+      <div className="Author">
+        Настанова в бардо, яка звільнює людські істоти, глибока потаємна
+        сутність, «Велике Визволення в результаті почутого».
+        <p>
+          Цей скарб був знайдений сідгою Карма-Лінта в горі Гамподар. Нехай він
+          слугуватиме для блага Вчення й всіх живих істот.{" "}
+        </p>
+        <p>Sarvamangalam (На благо усього живого). </p>
+      </div>
+      <br />
+      <h3>КІНЕЦЬ</h3>
+
+      <img className="img-fluid" src={Padmasambhava1} alt="Padmasambhava1" />
     </div>
   );
 }
