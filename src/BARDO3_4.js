@@ -5,6 +5,9 @@ import Water from "./img/Water.png";
 import ParadiseGarden from "./img/ParadiseGarden.jpg";
 import FairyLand from "./img/FairyLand.jpg";
 import House from "./img/House.jpg";
+import Horses from "./img/Horses.jpg";
+import Cows from "./img/Cows.jpg";
+import GemTemple from "./img/GemTemple.jpg";
 
 export default function BARDO3_4() {
   return (
@@ -127,6 +130,44 @@ export default function BARDO3_4() {
       <p>Вступи туди, якщо зможеш.</p>
 
       <img className="img-fluid" src={House} alt="House" />
+
+      <h2>День 39</h2>
+      <h3>1.</h3>
+
+      <p>
+        Якщо тобі доведеться народитися на західному континенті, що звуть
+        «Насолода корів, які виконують бажання», ти побачиш озеро прикрашене
+        конями й кобилами.{" "}
+      </p>
+      <p>Не кидайся туди, повернися назад. </p>
+      <p>
+        Хоча в цьому місці рясні насолоди, Вчення Будди не процвітає там, тому
+        не вступай туди.
+      </p>
+
+      <img className="img-fluid" src={Horses} alt="Horses" />
+      <h3>2.</h3>
+
+      <p>
+        Якщо тобі належить народитися на північному континенті, що звуть
+        «Неприємний звук», ти побачиш озеро, прикрашене худобою або деревами.
+      </p>
+      <p>Зрозумій це як знаки переродження й не вступай туди. </p>
+      <p>
+        Хоча там живуть довго й володіють чеснотами, Вчення Будди не процвітає
+        там, тому не вступай туди.
+      </p>
+
+      <img className="img-fluid" src={Cows} alt="Cows" />
+      <h3>3.</h3>
+
+      <p>
+        Якщо тобі доведеться народитися богом, ти побачиш прекрасні багатоярусні
+        храми з дорогоцінного каміння.
+      </p>
+      <p>Вступи туди, якщо гідна.</p>
+
+      <img className="img-fluid" src={GemTemple} alt="GemTemple" />
     </div>
   );
 }
