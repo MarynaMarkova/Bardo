@@ -8,6 +8,9 @@ import House from "./img/House.jpg";
 import Horses from "./img/Horses.jpg";
 import Cows from "./img/Cows.jpg";
 import GemTemple from "./img/GemTemple.jpg";
+import AmusementPark from "./img/AmusementPark.jpeg";
+import Shalashnik from "./img/Shalashnik.jpg";
+import Burshtyn from "./img/Burshtyn.jpg";
 
 export default function BARDO3_4() {
   return (
@@ -168,6 +171,35 @@ export default function BARDO3_4() {
       <p>Вступи туди, якщо гідна.</p>
 
       <img className="img-fluid" src={GemTemple} alt="GemTemple" />
+      <p>
+        Якщо тобі доведеться народитися ревнивим богом, ти побачиш прекрасні гаї
+        або те, що здається вогняними колесами, які обертаються.
+      </p>
+      <p>Не вступай туди зовсім та міркуй про протидію.</p>
+
+      <img className="img-fluid" src={AmusementPark} alt="AmusementPark" />
+      <h3>2.</h3>
+
+      <p>
+        Якщо тобі доведеться народитися твариною, ти побачиш нібито крізь туман
+        печери в скелях, нори в землі й солом’яні хатинки.
+      </p>
+      <p>Не вступай туди.</p>
+
+      <img className="img-fluid" src={Shalashnik} alt="Shalashnik" />
+      <h3>3.</h3>
+
+      <p>
+        Якщо тобі доведеться народитися голодним духом, ти побачиш пні дерев і
+        чорні форми, що стирчать, дрібні печери й чорні плями.
+      </p>
+      <p>
+        Якщо ти кинешся туди, ти народишся голодним духом і відчуєш всі види
+        страждання від голоду й спраги, тому зовсім не прямуй туди та думай про
+        протидію й наполегливо чини опір.
+      </p>
+
+      <img className="img-fluid" src={Burshtyn} alt="Burshtyn" />
     </div>
   );
 }
