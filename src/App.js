@@ -1,17 +1,29 @@
-import RandomNuber from "./RandomNumber";
-// import BARDO3_4 from "./BARDO3_4";
-// import Meditations from "./Meditations";
-// import Piece108 from "./Piece108";
+import BARDO1_1 from "./BARDO1_1";
+import BARDO1_2 from "./BARDO1_2";
+import BARDO2_1 from "./BARDO2_1";
+import BARDO2_2 from "./BARDO2_2";
+import BARDO2_3 from "./BARDO2_3";
+import BARDO3_1 from "./BARDO3_1";
+import BARDO3_2 from "./BARDO3_2";
+import BARDO3_3 from "./BARDO3_3";
+import BARDO3_4 from "./BARDO3_4";
+
 import "./App.css";
 
 export default function App() {
   return (
     <div className="App">
       <div className="Container">
-        {/* <Piece108 /> */}
-        {/* <BARDO3_4 /> */}
-        {/* <Meditations /> */}
-        <RandomNuber />
+        <BARDO1_1 />
+        <BARDO1_2 />
+        <BARDO2_1 />
+        <BARDO2_2 />
+        <BARDO2_3 />
+        <BARDO3_1 />
+        <BARDO3_2 />
+        <BARDO3_3 />
+        <BARDO3_4 />
+
         <div3 className="Author">
           Падмасамбгава — Настанови й молитви «Книги Великого Визволення»
         </div3>
