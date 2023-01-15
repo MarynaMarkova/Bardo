@@ -60,11 +60,7 @@ export default function BARDO3_4() {
         одному.
       </p>
 
-      <img
-        className="img-fluid"
-        src={BuddhaShakyamuni}
-        alt="BuddhaShakyamuni"
-      />
+      <img className="img-fluid" src={Illusion} alt="Illusion" />
       <h3>2.</h3>
 
       <p>
@@ -101,6 +97,11 @@ export default function BARDO3_4() {
         Якщо в глибині серця ти зрозумієш цю нереальність, брами лона,
         безперечно, зачиняться.
       </p>
+      <img
+        className="img-fluid"
+        src={BuddhaShakyamuni}
+        alt="BuddhaShakyamuni"
+      />
       <h3>3.</h3>
 
       <p>
@@ -147,7 +148,7 @@ export default function BARDO3_4() {
       </p>
       <p>тому тепер, коли брами лона не зачинились, настав час обрати тіло. </p>
 
-      <img className="img-fluid" src={ParadiseGarden} alt="ParadiseGarden" />
+      <img className="img-fluid" src={Body} alt="Body" />
       <h3>3.</h3>
       <p>
         Існує не одна, а багато істинних і глибоких порад, як обрати тобі брами
