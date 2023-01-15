@@ -7,7 +7,7 @@
   max-width: 800px;
   background-color: rgb(4, 1, 19);
   color: white;
-  padding: 50px;
+  padding: 50px 50px;
   border-radius: 30px;
   font-family: "Open Sans", sans-serif;
   font-size: larger;
@@ -28,13 +28,15 @@ h2 {
   font-size: 36px;
 }
 p {
-  margin: 20px auto;
+  border: white;
+  margin: 100px 50px;
+  font-size: 28px;
 }
 
 img {
   max-width: 600px;
   margin: 50px auto;
-  border-radius: 10px;
+  border-radius: 50%;
 }
 
 ul {
@@ -43,6 +45,7 @@ ul {
 
 .Author {
   font-family: "Alegreya SC", serif;
+  font-size: 18px;
 }
 
 footer,
@@ -56,6 +59,7 @@ a {
 }
 
 .Prayer {
+  border: 5px solid aqua;
   background-color: rgba(18, 15, 34, 0.658);
   padding: 30px 30px;
   border-radius: 15px;
@@ -107,5 +111,8 @@ a {
   background-color: rgb(5, 95, 5);
 }
 
-.Signature {
+.Logo {
+  max-width: 2500px;
+
+  margin: 0 auto;
 }

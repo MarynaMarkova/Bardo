@@ -2,22 +2,29 @@ import RandomNuber from "./RandomNumber";
 // import BARDO3_4 from "./BARDO3_4";
 // import Meditations from "./Meditations";
 // import Piece108 from "./Piece108";
+import mandala from "./img/mandala.jpeg";
 import "./App.css";
 
 export default function App() {
   return (
     <div className="App">
       <div className="Container">
+        <div className="Logo">
+          <img className="img-fluid" src={mandala} alt="mandala" />
+        </div>
         {/* <Piece108 /> */}
         {/* <BARDO3_4 /> */}
         {/* <Meditations /> */}
-        <RandomNuber />
+        <div className="Prayer">
+          <RandomNuber />
+        </div>
         <div3 className="Author">
+          <br />
           Падмасамбгава — Настанови й молитви «Книги Великого Визволення»
         </div3>
       </div>
       <footer>
-        <p>
+        <span>
           <a
             href="https://github.com/MarynaMarkova/Bardo/tree/master"
             className="profileLink"
@@ -37,7 +44,7 @@ export default function App() {
           >
             Maryna Markova
           </a>
-        </p>
+        </span>
         <p className="PhotoBy PhotoInside">
           Photo "Starry Night" by{" "}
           <a href="https://unsplash.com/@weirick?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
