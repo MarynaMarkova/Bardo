@@ -584,5 +584,7 @@ export default function RandomNumber() {
     case 145:
       return <Piece145 />;
       break;
+    default:
+      return <Piece1 />;
   }
 }
