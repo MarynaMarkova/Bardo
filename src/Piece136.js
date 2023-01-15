@@ -1,5 +1,5 @@
 import React from "react";
-import Chenrezig from "./img/Chenrezig.png";
+import Maitreya from "./img/Maitreya.jpg";
 
 export default function Piece136() {
   return (
@@ -8,12 +8,19 @@ export default function Piece136() {
       <h2>День 46</h2>
       <h3>1.</h3>
       <p>
-        Цієї миті благослови лоно, до якого ти входиш, як палац богів; звернись
-        із молитвою до Будд і бодгісатв десяти напрямків і до їдамів, перш за
-        все до Володаря Великого Співчуття, та ввійди до лона.
+        Або, якщо ти забажаєш податись до Володаря Майтреї в Радісне Царство,
+        зосередься на цій думці:
+      </p>
+      <div className="Prayer">
+        Зараз, у стані бардо, прийшов мій час вирушити до Царя Дгарми Майтреї в
+        Радісне Царство, тому я й відбуваю.
+      </div>
+      <p>
+        Й ти мимоволі народишся в серці лотоса в безпосередній близькості до
+        Майтреї.
       </p>
 
-      <img className="img-fluid" src={Chenrezig} alt="Chenrezig" />
+      <img className="img-fluid" src={Maitreya} alt="Maitreya" />
     </div>
   );
 }

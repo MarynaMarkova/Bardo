@@ -1,5 +1,5 @@
 import React from "react";
-import Gates from "./img/Gates.png";
+import Burshtyn from "./img/Burshtyn.jpg";
 
 export default function Piece122() {
   return (
@@ -8,11 +8,17 @@ export default function Piece122() {
       <h2>День 41</h2>
       <h3>2.</h3>
 
-      <p>Сказано: </p>
-      <p> «Зачини брами лона й міркуй про протидію». </p>
-      <p>Це потрібно зараз.</p>
+      <p>
+        Якщо тобі доведеться народитися голодним духом, ти побачиш пні дерев і
+        чорні форми, що стирчать, дрібні печери й чорні плями.
+      </p>
+      <p>
+        Якщо ти кинешся туди, ти народишся голодним духом і відчуєш всі види
+        страждання від голоду й спраги, тому зовсім не прямуй туди та думай про
+        протидію й наполегливо чини опір.
+      </p>
 
-      <img className="img-fluid" src={Gates} alt="Gates" />
+      <img className="img-fluid" src={Burshtyn} alt="Burshtyn" />
     </div>
   );
 }

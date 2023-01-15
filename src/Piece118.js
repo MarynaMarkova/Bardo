@@ -1,5 +1,5 @@
 import React from "react";
-import AmusementPark from "./img/AmusementPark.jpeg";
+import Cows from "./img/Cows.jpg";
 
 export default function Piece118() {
   return (
@@ -9,12 +9,16 @@ export default function Piece118() {
       <h3>1.</h3>
 
       <p>
-        Якщо тобі доведеться народитися ревнивим богом, ти побачиш прекрасні гаї
-        або те, що здається вогняними колесами, які обертаються.
+        Якщо тобі належить народитися на північному континенті, що звуть
+        «Неприємний звук», ти побачиш озеро, прикрашене худобою або деревами.
       </p>
-      <p>Не вступай туди зовсім та міркуй про протидію.</p>
+      <p>Зрозумій це як знаки переродження й не вступай туди. </p>
+      <p>
+        Хоча там живуть довго й володіють чеснотами, Вчення Будди не процвітає
+        там, тому не вступай туди.
+      </p>
 
-      <img className="img-fluid" src={AmusementPark} alt="AmusementPark" />
+      <img className="img-fluid" src={Cows} alt="Cows" />
     </div>
   );
 }

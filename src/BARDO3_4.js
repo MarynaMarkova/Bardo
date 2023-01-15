@@ -27,6 +27,8 @@ import BuddhaRealm from "./img/BuddhaRealm.jpg";
 import GoldenBuddha from "./img/GoldenBuddha.jpg";
 import Siddhi from "./img/Siddhi.jpg";
 import Chenrezig from "./img/Chenrezig.png";
+import Samadhi from "./img/Samadhi.jpg";
+import BuddhaMara from "./img/BuddhaMara.jpg";
 import Dao from "./img/Dao.jpg";
 import Buddha from "./img/Buddha.jpg";
 import ThreeJewels1 from "./img/ThreeJewels1.jpg";
@@ -131,7 +133,8 @@ export default function BARDO3_4() {
 
       <img className="img-fluid" src={ParadiseGarden} alt="ParadiseGarden" />
 
-      <h3>2.</h3>
+      <h2>День 39</h2>
+      <h3>1.</h3>
 
       <p>
         Якщо тобі доведеться народитися на східному континенті, що звуть
@@ -145,7 +148,7 @@ export default function BARDO3_4() {
 
       <img className="img-fluid" src={FairyLand} alt="FairyLand" />
 
-      <h3>3.</h3>
+      <h3>2.</h3>
 
       <p>
         Якщо тобі доведеться народитися на південному континенті, «Острові
@@ -155,8 +158,8 @@ export default function BARDO3_4() {
 
       <img className="img-fluid" src={House} alt="House" />
 
-      <h2>День 39</h2>
-      <h3>1.</h3>
+      
+      <h3>3.</h3>
 
       <p>
         Якщо тобі доведеться народитися на західному континенті, що звуть
@@ -170,8 +173,8 @@ export default function BARDO3_4() {
       </p>
 
       <img className="img-fluid" src={Horses} alt="Horses" />
-      <h3>2.</h3>
-
+      <h2>День 40</h2>
+      <h3>1.</h3>
       <p>
         Якщо тобі належить народитися на північному континенті, що звуть
         «Неприємний звук», ти побачиш озеро, прикрашене худобою або деревами.
@@ -183,7 +186,7 @@ export default function BARDO3_4() {
       </p>
 
       <img className="img-fluid" src={Cows} alt="Cows" />
-      <h3>3.</h3>
+     <h3>2.</h3>
 
       <p>
         Якщо тобі доведеться народитися богом, ти побачиш прекрасні багатоярусні
@@ -192,6 +195,7 @@ export default function BARDO3_4() {
       <p>Вступи туди, якщо гідна.</p>
 
       <img className="img-fluid" src={GemTemple} alt="GemTemple" />
+      <h3>3.</h3>
       <p>
         Якщо тобі доведеться народитися ревнивим богом, ти побачиш прекрасні гаї
         або те, що здається вогняними колесами, які обертаються.
@@ -199,7 +203,8 @@ export default function BARDO3_4() {
       <p>Не вступай туди зовсім та міркуй про протидію.</p>
 
       <img className="img-fluid" src={AmusementPark} alt="AmusementPark" />
-      <h3>2.</h3>
+      <h2>День 41</h2>
+      <h3>1.</h3>
 
       <p>
         Якщо тобі доведеться народитися твариною, ти побачиш нібито крізь туман
@@ -208,7 +213,7 @@ export default function BARDO3_4() {
       <p>Не вступай туди.</p>
 
       <img className="img-fluid" src={Shalashnik} alt="Shalashnik" />
-      <h3>3.</h3>
+      <h3>2.</h3>
 
       <p>
         Якщо тобі доведеться народитися голодним духом, ти побачиш пні дерев і
@@ -221,8 +226,7 @@ export default function BARDO3_4() {
       </p>
 
       <img className="img-fluid" src={Burshtyn} alt="Burshtyn" />
-      <h2>День 41</h2>
-      <h3>1.</h3>
+        <h3>3.</h3>
 
       <p>
         Якщо тобі доведеться народитися мешканцем пекла, ти почуєш пісні, що
@@ -237,15 +241,15 @@ export default function BARDO3_4() {
       </p>
 
       <img className="img-fluid" src={Road} alt="Road" />
-      <h2>День 41</h2>
-      <h3>2.</h3>
+       <h2>День 42</h2>
+      <h3>1.</h3>
 
       <p>Сказано: </p>
       <p> «Зачини брами лона й міркуй про протидію». </p>
       <p>Це потрібно зараз.</p>
 
       <img className="img-fluid" src={Gates} alt="Gates" />
-      <h3>3.</h3>
+      <h3>2.</h3>
 
       <p>
         О дитино шляхетного роду, навіть якщо ти не хочеш іти – ти не маєш
@@ -258,8 +262,7 @@ export default function BARDO3_4() {
       </p>
 
       <img className="img-fluid" src={Mesnyky} alt="Mesnyky" />
-      <h2>День 42</h2>
-      <h3>1.</h3>
+      <h3>3.</h3>
 
       <p>
         Тікаючи, ти шукатимеш прихисток і відчуєш себе в безпеці в розкішних
@@ -271,7 +274,8 @@ export default function BARDO3_4() {
       <p>й ти прив’яжешся до цього місця зі страху залишити його.</p>
 
       <img className="img-fluid" src={Forest} alt="Forest" />
-      <h3>2.</h3>
+      <h2>День 43</h2>
+      <h3>1.</h3>
 
       <p>
         Ти боїшся зустріти жахи бардо, якщо вийдеш назовні, ти дуже боїшся їх;
@@ -286,7 +290,7 @@ export default function BARDO3_4() {
 
       <img className="img-fluid" src={Bisy} alt="Bisy" />
 
-      <h3>3.</h3>
+      <h3>2.</h3>
 
       <p>
         У цей час жаху, коли тебе, безпорадну, переслідують месники, тобі
@@ -302,28 +306,33 @@ export default function BARDO3_4() {
       <p>Це істинна глибока таємниця настанови – зрозумій же її.</p>
 
       <img className="img-fluid" src={Vajrapani} alt="Vajrapani" />
-      <h2>День 43</h2>
-      <h3>1.</h3>
+      <h3>3.</h3>
       <p>
         О дитино шляхетного роду, боги медитації народжуються завдяки силі
         самадгі.
       </p>
+      <img className="img-fluid" src={Samadhi} alt="Samadhi" />
+      <h2>День 44</h2>
+      <h3>1.</h3>
       <p>
-        {" "}
+        
         Багато злих сил, таких, як голодні духи, змінили своє положення в стані
         бардо, вони здібні з’являтись у різноманітних ілюзорних формах голодних
-        духів і демонів та перетворюються в саме це розумове тіло. Голодні духи,
-        що живуть у глибинах моря, та ті, що літають у просторі, та всі
-        вісімдесят тисяч видів злих сил заволоділи цим розумовим тілом, змінивши
-        своє положення.
+        духів і демонів та перетворюються в саме це розумове тіло.
+        <img className="img-fluid" src={BuddhaMara} alt="BuddhaMara" />
+        <h3>2.</h3>
+        <p>
+        Голодні духи, що живуть у глибинах моря, та ті, що літають у просторі,
+        та всі вісімдесят тисяч видів злих сил заволоділи цим розумовим тілом,
+        змінивши своє положення.
       </p>
-
-      <img className="img-fluid" src={Zen} alt="Zen" />
-      <h3>2.</h3>
-      <p>
+<p>
         У цей час краще за все споглядати Великий Символ порожнечі, та, якщо ти
         не здатна цього робити, тоді прийми участь у грі ілюзії.{" "}
       </p>
+      <img className="img-fluid" src={Zen} alt="Zen" />
+      <h3>3.</h3>
+      
       <p>
         Якщо ти не можеш робити й цього, принаймні не прив’язуйся ні до чого та
         медитуй на їдама, на Володаря Великого Співчуття й ти станеш Буддою на
@@ -331,7 +340,8 @@ export default function BARDO3_4() {
       </p>
 
       <img className="img-fluid" src={Yidam} alt="Yidam" />
-      <h3>3.</h3>
+      <h2>День 45</h2>
+      <h3>1.</h3>
       <p>
         О дитино шляхетного роду, якщо ти маєш увійти до лона під упливом карми,
         зараз тобі буде дана настанова про вибір брам лона.
@@ -347,8 +357,7 @@ export default function BARDO3_4() {
       </p>
 
       <img className="img-fluid" src={Hayagriva} alt="Hayagriva" />
-      <h2>День 44</h2>
-      <h3>1.</h3>
+      <h3>2.</h3>
       <p>
         Перенесення до Чистого Царства Простору, царства очищених якостей,
         направляється такими словами:{" "}
@@ -368,7 +377,7 @@ export default function BARDO3_4() {
       </p>
 
       <img className="img-fluid" src={Sukhavati} alt="Sukhavati" />
-      <h3>2.</h3>
+      <h3>3.</h3>
       <p>
         Або, якщо ж ти, не відволікаючись, спрямуєш сильну зосереджену думку до
         будь-якого царства, яке забажаєш – чи то Чисте Царство, Царство
@@ -378,7 +387,8 @@ export default function BARDO3_4() {
       </p>
 
       <img className="img-fluid" src={LotusPalace} alt="LotusPalace" />
-      <h3>3.</h3>
+      <h2>День 46</h2>
+      <h3>1.</h3>
       <p>
         Або, якщо ти забажаєш податись до Володаря Майтреї в Радісне Царство,
         зосередься на цій думці:
@@ -393,8 +403,8 @@ export default function BARDO3_4() {
       </p>
 
       <img className="img-fluid" src={Maitreya} alt="Maitreya" />
-      <h2>День 45</h2>
-      <h3>1.</h3>
+
+      <h3>2.</h3>
       <p>
         В протилежному випадку, якщо ти не змогла податись до царства, до якого
         прагнеш, та бажаєш увійти до лона, або ж уважаєш, що маєш увійти до
@@ -407,7 +417,7 @@ export default function BARDO3_4() {
       </p>
 
       <img className="img-fluid" src={BuddhaRealm} alt="BuddhaRealm" />
-      <h3>2.</h3>
+      <h3>3.</h3>
       <p>
         Якщо тобі випаде мимоволі народитись у бридкій купі гною, ця смердюча
         маса здасться тобі запашною, ти відчуєш потяг і будеш народжена там;
@@ -416,7 +426,8 @@ export default function BARDO3_4() {
       </p>
 
       <img className="img-fluid" src={GoldenBuddha} alt="GoldenBuddha" />
-      <h3>3.</h3>
+      <h2>День 47</h2>
+      <h3>1.</h3>
       <p>Знову ж таки, дуже важливо зосереджено думати: </p>
       <div className="Prayer">
         «Я буду народжена як володарка імперії для блага всіх живих істот, або
@@ -428,7 +439,7 @@ export default function BARDO3_4() {
       <p>Треба входити до лона, зосередившись на цій думці.</p>
 
       <img className="img-fluid" src={Siddhi} alt="Siddhi" />
-      <h3>1.</h3>
+      <h3>2.</h3>
       <p>
         Цієї миті благослови лоно, до якого ти входиш, як палац богів; звернись
         із молитвою до Будд і бодгісатв десяти напрямків і до їдамів, перш за
@@ -436,7 +447,7 @@ export default function BARDO3_4() {
       </p>
 
       <img className="img-fluid" src={Chenrezig} alt="Chenrezig" />
-      <h3>2.</h3>
+      <h3>3.</h3>
       <p>
         Обираючи брами лона під впливом карми можна припуститись помилки,
         прийнявши добрі брами лона за погані або погані за добрі, тому зараз
@@ -446,8 +457,8 @@ export default function BARDO3_4() {
       </p>
 
       <img className="img-fluid" src={Dao} alt="Dao" />
-
-      <h3>3.</h3>
+      <h2>День 48</h2>
+      <h3>1.</h3>
       <p>
         Справжня, глибока, істинна таємниця полягає в тому, щоби вступити до
         вищого стану рівноваги, де немає ані гарного, ані поганого, ані
@@ -455,8 +466,7 @@ export default function BARDO3_4() {
       </p>
 
       <img className="img-fluid" src={Buddha} alt="Buddha" />
-      <h2>День 47</h2>
-      <h3>1.</h3>
+      <h3>2.</h3>
       <p>
         О дитино шляхетного роду, якщо ти не знаєш, як обрати брами лона й не в
         змозі звільнитись від пристрасті й злості, то які би з описаних почуттів
@@ -465,7 +475,7 @@ export default function BARDO3_4() {
 
       <img className="img-fluid" src={ThreeJewels1} alt="ThreeJewels1" />
 
-      <h3>2.</h3>
+      <h3>3.</h3>
       <p>Молись Володареві Великого Співчуття.</p>
       <p>Продовжуй шлях із високо піднятою головою. </p>
       <p>
@@ -475,7 +485,8 @@ export default function BARDO3_4() {
 
       <img className="img-fluid" src={Chenrezig1} alt="Chenrezig1" />
 
-      <h3>3.</h3>
+      <h2>День 49</h2>
+      <h3>1.</h3>
       <br />
       <p>
         Тепер вступи до синього світла світу людей або до білого світла світу

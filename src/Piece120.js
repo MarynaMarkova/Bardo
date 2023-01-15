@@ -1,5 +1,5 @@
 import React from "react";
-import Burshtyn from "./img/Burshtyn.jpg";
+import AmusementPark from "./img/AmusementPark.jpeg";
 
 export default function Piece120() {
   return (
@@ -9,16 +9,12 @@ export default function Piece120() {
       <h3>3.</h3>
 
       <p>
-        Якщо тобі доведеться народитися голодним духом, ти побачиш пні дерев і
-        чорні форми, що стирчать, дрібні печери й чорні плями.
+        Якщо тобі доведеться народитися ревнивим богом, ти побачиш прекрасні гаї
+        або те, що здається вогняними колесами, які обертаються.
       </p>
-      <p>
-        Якщо ти кинешся туди, ти народишся голодним духом і відчуєш всі види
-        страждання від голоду й спраги, тому зовсім не прямуй туди та думай про
-        протидію й наполегливо чини опір.
-      </p>
+      <p>Не вступай туди зовсім та міркуй про протидію.</p>
 
-      <img className="img-fluid" src={Burshtyn} alt="Burshtyn" />
+      <img className="img-fluid" src={AmusementPark} alt="AmusementPark" />
     </div>
   );
 }

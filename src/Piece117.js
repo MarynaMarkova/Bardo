@@ -1,5 +1,5 @@
 import React from "react";
-import GemTemple from "./img/GemTemple.jpg";
+import Horses from "./img/Horses.jpg";
 
 export default function Piece117() {
   return (
@@ -9,12 +9,17 @@ export default function Piece117() {
       <h3>3.</h3>
 
       <p>
-        Якщо тобі доведеться народитися богом, ти побачиш прекрасні багатоярусні
-        храми з дорогоцінного каміння.
+        Якщо тобі доведеться народитися на західному континенті, що звуть
+        «Насолода корів, які виконують бажання», ти побачиш озеро прикрашене
+        конями й кобилами.{" "}
       </p>
-      <p>Вступи туди, якщо гідна.</p>
+      <p>Не кидайся туди, повернися назад. </p>
+      <p>
+        Хоча в цьому місці рясні насолоди, Вчення Будди не процвітає там, тому
+        не вступай туди.
+      </p>
 
-      <img className="img-fluid" src={GemTemple} alt="GemTemple" />
+      <img className="img-fluid" src={Horses} alt="Horses" />
     </div>
   );
 }

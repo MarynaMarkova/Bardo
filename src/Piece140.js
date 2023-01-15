@@ -1,5 +1,5 @@
 import React from "react";
-import Chenrezig1 from "./img/Chenrezig1.jpg";
+import Chenrezig from "./img/Chenrezig.png";
 
 export default function Piece140() {
   return (
@@ -7,14 +7,13 @@ export default function Piece140() {
       <h1>Частина III </h1>
       <h2>День 47</h2>
       <h3>2.</h3>
-      <p>Молись Володареві Великого Співчуття.</p>
-      <p>Продовжуй шлях із високо піднятою головою. </p>
       <p>
-        Відкинь прив’язаність і журбу за родичами й друзями, синами й доньками,
-        яких ти залишила; вони не можуть допомогти тобі.
+        Цієї миті благослови лоно, до якого ти входиш, як палац богів; звернись
+        із молитвою до Будд і бодгісатв десяти напрямків і до їдамів, перш за
+        все до Володаря Великого Співчуття, та ввійди до лона.
       </p>
 
-      <img className="img-fluid" src={Chenrezig1} alt="Chenrezig1" />
+      <img className="img-fluid" src={Chenrezig} alt="Chenrezig" />
     </div>
   );
 }

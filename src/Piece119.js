@@ -1,5 +1,5 @@
 import React from "react";
-import Shalashnik from "./img/Shalashnik.jpg";
+import GemTemple from "./img/GemTemple.jpg";
 
 export default function Piece119() {
   return (
@@ -7,14 +7,13 @@ export default function Piece119() {
       <h1>Частина III </h1>
       <h2>День 40</h2>
       <h3>2.</h3>
-
       <p>
-        Якщо тобі доведеться народитися твариною, ти побачиш нібито крізь туман
-        печери в скелях, нори в землі й солом’яні хатинки.
+        Якщо тобі доведеться народитися богом, ти побачиш прекрасні багатоярусні
+        храми з дорогоцінного каміння.
       </p>
-      <p>Не вступай туди.</p>
+      <p>Вступи туди, якщо гідна.</p>
 
-      <img className="img-fluid" src={Shalashnik} alt="Shalashnik" />
+      <img className="img-fluid" src={GemTemple} alt="GemTemple" />
     </div>
   );
 }

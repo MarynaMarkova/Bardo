@@ -1,5 +1,5 @@
 import React from "react";
-import Forest from "./img/Forest.jpg";
+import Gates from "./img/Gates.png";
 
 export default function Piece124() {
   return (
@@ -8,16 +8,11 @@ export default function Piece124() {
       <h2>День 42</h2>
       <h3>1.</h3>
 
-      <p>
-        Тікаючи, ти шукатимеш прихисток і відчуєш себе в безпеці в розкішних
-        домах, що були описані раніше, або в скельних сховищах, у земляних
-        норах, серед дерев або в круглих чашах квітів лотосу.
-      </p>
-      <p> Заховавшись там, ти злякаєшся вийти й подумаєш: </p>
-      <p>«Тепер я не можу вийти звідси», </p>
-      <p>й ти прив’яжешся до цього місця зі страху залишити його.</p>
+      <p>Сказано: </p>
+      <p> «Зачини брами лона й міркуй про протидію». </p>
+      <p>Це потрібно зараз.</p>
 
-      <img className="img-fluid" src={Forest} alt="Forest" />
+      <img className="img-fluid" src={Gates} alt="Gates" />
     </div>
   );
 }

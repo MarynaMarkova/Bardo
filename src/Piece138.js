@@ -1,5 +1,5 @@
 import React from "react";
-import Buddha from "./img/Buddha.jpg";
+import GoldenBuddha from "./img/GoldenBuddha.jpg";
 
 export default function Piece138() {
   return (
@@ -8,12 +8,13 @@ export default function Piece138() {
       <h2>День 46</h2>
       <h3>3.</h3>
       <p>
-        Справжня, глибока, істинна таємниця полягає в тому, щоби вступити до
-        вищого стану рівноваги, де немає ані гарного, ані поганого, ані
-        прийняття, ані заперечення, ані пристрасті, ані злоби.
+        Якщо тобі випаде мимоволі народитись у бридкій купі гною, ця смердюча
+        маса здасться тобі запашною, ти відчуєш потяг і будеш народжена там;
+        тому, що би не виникало, не довіряй цьому, поклади кінець ознакам
+        бажання й ненависті та обери брами лона.
       </p>
 
-      <img className="img-fluid" src={Buddha} alt="Buddha" />
+      <img className="img-fluid" src={GoldenBuddha} alt="GoldenBuddha" />
     </div>
   );
 }
