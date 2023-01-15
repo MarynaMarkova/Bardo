@@ -189,7 +189,7 @@ export default function FullBardo1_1() {
           бажай, не сумуй.
         </p>
 
-        <p>Пам’ятай про Три Дорогоцінності: Будду, Сангґу й Дгарму.</p>
+        <p>Пам’ятай про Три Дорогоцінності: Будду, Санґгу й Дгарму.</p>
 
         <img className="img-fluid" src={Three_Jewels} alt="Three Jewels" />
       </div>
