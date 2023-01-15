@@ -1,5 +1,5 @@
 import React from "react";
-import Nepevnenist from "./img/Nepevnenist.png";
+import Nepevnenist from "./img/Nepevnenist.jpg";
 
 export default function Piece79() {
   return (

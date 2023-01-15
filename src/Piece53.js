@@ -1,6 +1,6 @@
 import React from "react";
-import Pishachi1 from "./img/Pishachi1.png";
-import Pishachi2 from "./img/Pishachi2.png";
+import Pishachi1 from "./img/Pishachi1.jpg";
+import Pishachi2 from "./img/Pishachi2.jpg";
 
 export default function Piece53() {
   return (

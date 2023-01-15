@@ -30,6 +30,7 @@ export default function Piece109() {
         className="img-fluid"
         src={BuddhaShakyamuni}
         alt="BuddhaShakyamuni"
+      />
     </div>
   );
 }

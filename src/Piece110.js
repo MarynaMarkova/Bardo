@@ -1,4 +1,5 @@
 import React from "react";
+import Illusion from "./img/illusion.png";
 
 export default function Piece110() {
   return (
