@@ -122,6 +122,15 @@ a {
 
 .Logo {
   max-width: 2500px;
-
   margin: 0 auto;
+}
+
+@media (max-width: 700px) {
+  .Prayer {
+    padding: 10px 10px;
+  }
+  p {
+    font-size: 18px;
+    margin: 80px 10px;
+  }
 }
