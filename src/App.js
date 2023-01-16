@@ -7,14 +7,22 @@ import "./App.css";
 export default function App() {
   return (
     <div className="App">
+      <a
+        href="https://marynamarkova.github.io/bardo-ua/"
+        className="icon"
+        title="Go Home"
+      >
+        <i class="fa-solid fa-house"></i>
+      </a>
+
       <div className="Container">
         {/* <Piece108 /> */}
         {/* <BARDO3_4 /> */}
         {/* <Meditations /> */}
         <RandomNuber />
-        <div3 className="Author">
+        <div className="Author">
           Падмасамбгава — Настанови й молитви «Книги Великого Визволення»
-        </div3>
+        </div>
       </div>
       <footer>
         <p>
