@@ -13,6 +13,13 @@ import "./App.css";
 export default function App() {
   return (
     <div className="App">
+      <a
+        href="https://marynamarkova.github.io/bardo-ua/"
+        className="icon"
+        title="Go Home"
+      >
+        <i class="fa-solid fa-house"></i>
+      </a>
       <div className="Container">
         <BARDO1_1 />
         <BARDO1_2 />
