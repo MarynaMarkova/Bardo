@@ -48,6 +48,15 @@ ul {
   font-size: 18px;
 }
 
+i {
+  color: white;
+  margin-top: 20px;
+  font-size: 30px;
+  position: absolute;
+  top: 20px;
+  left: 30px;
+}
+
 footer,
 a {
   color: rgb(124, 139, 158);
