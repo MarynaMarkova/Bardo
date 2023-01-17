@@ -1,5 +1,5 @@
 import React from "react";
-import fiveElements from "./img/fiveElements.jpg";
+import BuddhaBodies from "./img/BuddhaBodies.jpg";
 import mahamudra from "./img/mahamudra.jpg";
 import light from "./img/light.jpg";
 import Adibuddha from "./img/Adibuddha.jpg";
@@ -42,7 +42,7 @@ export default function FullBardo1_1() {
           повітрі, повітря в просторі, простору – в світлоносній порожнечі.
         </p>
 
-        <img className="img-fluid" src={fiveElements} alt="Five Elements" />
+        <img className="img-fluid" src={BuddhaBodies} alt="BuddhaBodies" />
       </div>
       <h3>2.</h3>
       <div>
