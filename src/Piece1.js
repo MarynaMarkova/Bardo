@@ -1,5 +1,5 @@
 import React from "react";
-import fiveElements from "./img/fiveElements.jpg";
+import BuddhaBodies from "./img/BuddhaBodies.jpg";
 
 export default function Piece1() {
   return (
@@ -28,7 +28,7 @@ export default function Piece1() {
           повітрі, повітря в просторі, простору – в світлоносній порожнечі.
         </p>
 
-        <img className="img-fluid" src={fiveElements} alt="Five Elements" />
+        <img className="img-fluid" src={BuddhaBodies} alt="BuddhaBodies" />
       </div>
     </div>
   );
