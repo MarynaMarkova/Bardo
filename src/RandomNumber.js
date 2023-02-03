@@ -777,6 +777,7 @@ export default function RandomNumber() {
       break;
     case 103:
       return <p>Цієї миті насолода та біль визначаються твоєю кармою.</p>;
+      break;
     case 104:
       return (
         <p>
